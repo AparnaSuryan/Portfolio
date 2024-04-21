@@ -1,6 +1,7 @@
-## Datasets used
-1.Customer Call List.xlsx
-2.world_population.csv
+# Datasets used
+1. Customer Call List.xlsx
+
+2. world_population.csv
 
 # Data Preprocessing
 
