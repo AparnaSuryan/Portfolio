@@ -1,9 +1,16 @@
 # Feature Engineering:
 
-Created new columns time_of_day, day_name, and month_name based on existing time and date columns.
-Utilized CASE statements and UPDATE queries to populate new columns with appropriate values derived from existing data.
+In the feature engineering part of this project, new columns (time_of_day, day_name, month_name) were added to an existing table (Sales) based on the values from the time and date columns. This process involved the following steps:
 
-Exploratory Data Analysis (EDA):
+            Definition of New Columns:
+                  New columns (time_of_day, day_name, month_name) were defined as part of the Sales table schema to store derived values based on existing data.
+            Utilization of CASE Statements:
+                  CASE statements were utilized within SELECT queries to conditionally assign values to the new columns (time_of_day, day_name, month_name) based on specified criteria.
+            Population of New Columns with UPDATE Queries:
+                  UPDATE queries were used to populate the newly added columns (time_of_day, day_name, month_name) in the Sales table with the values derived from the existing time and date columns.
+                  The UPDATE statements utilized CASE expressions to conditionally set values for each row in the table based on specific time or date ranges.
+
+# Exploratory Data Analysis (EDA):
 
 Conducted various EDA queries to analyze sales data:
 
