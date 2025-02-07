@@ -1,0 +1,31 @@
+version: '3.8'
+
+services:
+  weather_pipeline:
+    build: .
+    volumes:
+      - .:/weather_pipeline   
+    depends_on:
+      - db
+    environment:
+      - DB_HOST=db                   
+      - DB_NAME=weather_data        
+      - DB_USER=username              
+      - DB_PASSWORD=password    
+      - DB_PORT=3306                
+    ports:
+      - "5000:5000"                 
+
+  db:
+    image: mysql:8
+    container_name: weather_pipeline-db-1
+    environment:
+      MYSQL_ROOT_PASSWORD: password
+      MYSQL_DATABASE: weather_data
+    volumes:
+      - mysql_data:/var/lib/mysql
+    ports:
+      - "3306:3306"
+
+volumes:
+  mysql_data:
