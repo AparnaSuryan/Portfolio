@@ -6,7 +6,7 @@ across 2001-2002 on a dataset of 957M+ orders.
 
 ## Tools & Technologies
 - **Snowflake** — Cloud data warehouse (SQL queries)
-- **Looker Studio** — Business Intelligence dashboard
+- **Data Studio** — Business Intelligence dashboard
 - **SQL** — Data transformation and analysis
 
 ## Dashboard
