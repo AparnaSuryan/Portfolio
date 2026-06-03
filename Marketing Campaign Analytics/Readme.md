@@ -5,18 +5,54 @@ End-to-end data analytics project analyzing customer behavior and
 marketing campaign performance for 2,216 customers using Python, 
 PostgreSQL, and Power BI.
 
-## Architecture
-Raw CSV Data
-↓
-Python + Pandas (Data Cleaning & Transformation)
-↓
-PostgreSQL (Star Schema + Snowflake Schema)
-↓
-Power Query (Additional Transformations)
-↓
-DAX Measures (KPI Calculations)
-↓
-Power BI Dashboard (Visualization)
+## Data Pipeline
+
+```
++------------------+
+|  Raw CSV Data    |
+|  2,216 customers |
++--------+---------+
+         |
+         v
++------------------+
+|  Python + Pandas |
+|  - Clean data    |
+|  - Feature eng.  |
+|  - Build schemas |
++--------+---------+
+         |
+         v
++------------------+
+|   PostgreSQL     |
+|  - Star Schema   |
+|  - Snowflake     |
+|    Schema        |
++--------+---------+
+         |
+         v
++------------------+
+|  Power Query     |
+|  - Age groups    |
+|  - Income bands  |
+|  - Channels      |
++--------+---------+
+         |
+         v
++------------------+
+|  DAX Measures    |
+|  - Revenue       |
+|  - Response Rate |
+|  - YoY Growth    |
++--------+---------+
+         |
+         v
++------------------+
+|  Power BI        |
+|  Dashboard       |
+|  5 visuals +     |
+|  2 slicers       |
++------------------+
+```
 
 
 ## Tools & Technologies
