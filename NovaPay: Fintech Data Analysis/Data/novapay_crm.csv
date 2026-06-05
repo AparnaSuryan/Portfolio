@@ -1,0 +1,1201 @@
+lead_id,company,market,currency,campaign_name,channel,campaign_budget,product,pipeline_stage,deal_value_usd,created_date,email_opened,email_clicked,company_size,lead_score
+NP-1000,NovaPay,UK,GBP,Influencer Summer,Influencer,22000,NovaPay Pro,Lead,0.0,2024-06-18,,,1-10,96
+NP-1001,NovaPay,Singapore,SGD,Influencer Summer,Influencer,22000,NovaPay Basic,Qualified,0.0,2024-06-04,,,1-10,37
+NP-1002,NovaPay,India,INR,Spring Email Push,Email,6000,NovaPay Basic,Lead,0.0,2024-04-24,True,False,51-200,10
+NP-1003,NovaPay,UAE,AED,Spring Email Push,Email,6000,NovaPay Basic,Lead,0.0,2024-03-29,True,False,51-200,54
+NP-1004,NovaPay,Germany,EUR,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Qualified,0.0,2024-05-25,,,201-500,20
+NP-1005,NovaPay,Germany,EUR,Fintech Webinar Series,Webinar,7500,NovaPay Pro,Negotiation,0.0,2024-06-25,,,500+,34
+NP-1006,NovaPay,UK,GBP,Influencer Summer,Influencer,22000,NovaPay Pro,Demo,0.0,2024-06-11,,,11-50,22
+NP-1007,NovaPay,Germany,EUR,Partner Referral Q2,Referral,12000,NovaPay Pro,Lead,0.0,2024-05-22,,,51-200,36
+NP-1008,NovaPay,Germany,EUR,Influencer Summer,Influencer,22000,NovaPay Enterprise,Demo,0.0,2024-06-22,,,500+,41
+NP-1009,NovaPay,India,INR,Spring Email Push,Email,6000,NovaPay Basic,Negotiation,0.0,2024-04-26,True,False,1-10,39
+NP-1010,NovaPay,Singapore,SGD,Q1 Launch Blitz,Paid Social,18000,NovaPay Basic,Lead,0.0,2024-03-22,,,51-200,37
+NP-1011,NovaPay,India,INR,Influencer Summer,Influencer,22000,NovaPay Enterprise,Qualified,0.0,2024-06-19,,,51-200,27
+NP-1012,NovaPay,UAE,AED,Spring Email Push,Email,6000,NovaPay Pro,Demo,0.0,2024-04-09,False,False,201-500,56
+NP-1013,NovaPay,USA,USD,Spring Email Push,Email,6000,NovaPay Basic,Qualified,0.0,2024-02-21,False,False,11-50,90
+NP-1014,NovaPay,UAE,AED,Spring Email Push,Email,6000,NovaPay Basic,Lead,0.0,2024-04-03,False,False,201-500,77
+NP-1015,NovaPay,USA,USD,SEO Content Drive,Organic Search,9000,NovaPay Enterprise,Lead,0.0,2024-03-15,,,500+,44
+NP-1016,NovaPay,Germany,EUR,Influencer Summer,Influencer,22000,NovaPay Basic,Lead,0.0,2024-06-01,,,51-200,74
+NP-1017,NovaPay,India,INR,Spring Email Push,Email,6000,NovaPay Basic,Qualified,0.0,2024-04-19,False,False,11-50,57
+NP-1018,NovaPay,India,INR,Spring Email Push,Email,6000,NovaPay Pro,Qualified,0.0,2024-02-15,False,False,201-500,12
+NP-1019,NovaPay,USA,USD,Q1 Launch Blitz,Paid Social,18000,NovaPay Enterprise,Proposal,0.0,2024-02-18,,,11-50,17
+NP-1020,NovaPay,Singapore,SGD,Spring Email Push,Email,6000,NovaPay Enterprise,Lead,0.0,2024-04-17,False,False,500+,26
+NP-1021,NovaPay,UAE,AED,Spring Email Push,Email,6000,NovaPay Enterprise,Lead,0.0,2024-04-22,False,False,201-500,37
+NP-1022,NovaPay,UAE,AED,Fintech Webinar Series,Webinar,7500,NovaPay Pro,Demo,0.0,2024-06-30,,,51-200,66
+NP-1023,NovaPay,India,INR,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Lead,0.0,2024-05-12,,,500+,80
+NP-1024,NovaPay,India,INR,Spring Email Push,Email,6000,NovaPay Basic,Demo,0.0,2024-02-22,True,False,51-200,19
+NP-1025,NovaPay,UK,GBP,Fintech Webinar Series,Webinar,7500,NovaPay Pro,Lead,0.0,2024-05-26,,,500+,83
+NP-1026,NovaPay,UK,GBP,Partner Referral Q2,Referral,12000,NovaPay Basic,Lead,0.0,2024-04-17,,,1-10,94
+NP-1027,NovaPay,Germany,EUR,Partner Referral Q2,Referral,12000,NovaPay Basic,Proposal,0.0,2024-04-11,,,1-10,17
+NP-1028,NovaPay,UAE,AED,Partner Referral Q2,Referral,12000,NovaPay Pro,Lead,0.0,2024-04-29,,,11-50,78
+NP-1029,NovaPay,UK,GBP,Partner Referral Q2,Referral,12000,NovaPay Basic,Qualified,0.0,2024-04-14,,,201-500,80
+NP-1030,NovaPay,UK,GBP,Q1 Launch Blitz,Paid Social,18000,NovaPay Enterprise,Proposal,0.0,2024-01-21,,,11-50,31
+NP-1031,NovaPay,India,INR,Partner Referral Q2,Referral,12000,NovaPay Basic,Lead,0.0,2024-04-12,,,11-50,58
+NP-1032,NovaPay,USA,USD,Q1 Launch Blitz,Paid Social,18000,NovaPay Basic,Demo,0.0,2024-03-08,,,51-200,64
+NP-1033,NovaPay,USA,USD,Influencer Summer,Influencer,22000,NovaPay Enterprise,Qualified,0.0,2024-08-02,,,11-50,34
+NP-1034,NovaPay,UK,GBP,SEO Content Drive,Organic Search,9000,NovaPay Basic,Demo,0.0,2024-03-08,,,51-200,17
+NP-1035,NovaPay,India,INR,Q1 Launch Blitz,Paid Social,18000,NovaPay Pro,Proposal,0.0,2024-01-30,,,1-10,75
+NP-1036,NovaPay,Singapore,SGD,Q1 Launch Blitz,Paid Social,18000,NovaPay Basic,Lead,0.0,2024-02-09,,,201-500,25
+NP-1037,NovaPay,UK,GBP,Fintech Webinar Series,Webinar,7500,NovaPay Pro,Qualified,0.0,2024-07-02,,,500+,82
+NP-1038,NovaPay,Germany,EUR,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Demo,0.0,2024-06-19,,,11-50,43
+NP-1039,NovaPay,UK,GBP,Partner Referral Q2,Referral,12000,NovaPay Pro,Qualified,0.0,2024-04-14,,,1-10,68
+NP-1040,NovaPay,USA,USD,Fintech Webinar Series,Webinar,7500,NovaPay Enterprise,Lead,0.0,2024-06-06,,,500+,43
+NP-1041,NovaPay,USA,USD,Spring Email Push,Email,6000,NovaPay Enterprise,Negotiation,0.0,2024-04-02,True,False,500+,48
+NP-1042,NovaPay,USA,USD,Fintech Webinar Series,Webinar,7500,NovaPay Pro,Qualified,0.0,2024-07-19,,,51-200,94
+NP-1043,NovaPay,USA,USD,Q1 Launch Blitz,Paid Social,18000,NovaPay Basic,Lead,0.0,2024-01-23,,,500+,29
+NP-1044,NovaPay,Germany,EUR,SEO Content Drive,Organic Search,9000,NovaPay Basic,Lead,0.0,2024-04-03,,,500+,72
+NP-1045,NovaPay,USA,USD,SEO Content Drive,Organic Search,9000,NovaPay Pro,Lead,0.0,2024-04-24,,,51-200,15
+NP-1046,NovaPay,Germany,EUR,Q1 Launch Blitz,Paid Social,18000,NovaPay Basic,Closed Lost,0.0,2024-01-30,,,201-500,80
+NP-1047,NovaPay,Germany,EUR,Influencer Summer,Influencer,22000,NovaPay Basic,Lead,0.0,2024-06-20,,,500+,14
+NP-1048,NovaPay,India,INR,SEO Content Drive,Organic Search,9000,NovaPay Basic,Lead,0.0,2024-04-09,,,51-200,15
+NP-1049,NovaPay,UK,GBP,SEO Content Drive,Organic Search,9000,NovaPay Basic,Lead,0.0,2024-05-11,,,201-500,89
+NP-1050,NovaPay,UK,GBP,Influencer Summer,Influencer,22000,NovaPay Enterprise,Proposal,0.0,2024-06-23,,,201-500,13
+NP-1051,NovaPay,UAE,AED,Spring Email Push,Email,6000,NovaPay Basic,Negotiation,0.0,2024-03-17,True,False,1-10,58
+NP-1052,NovaPay,Singapore,SGD,Q1 Launch Blitz,Paid Social,18000,NovaPay Basic,Proposal,0.0,2024-03-08,,,51-200,49
+NP-1053,NovaPay,UK,GBP,Spring Email Push,Email,6000,NovaPay Pro,Lead,0.0,2024-03-21,False,False,51-200,54
+NP-1054,NovaPay,India,INR,Influencer Summer,Influencer,22000,NovaPay Pro,Proposal,0.0,2024-07-13,,,1-10,24
+NP-1055,NovaPay,UK,GBP,SEO Content Drive,Organic Search,9000,NovaPay Enterprise,Lead,0.0,2024-03-14,,,500+,65
+NP-1056,NovaPay,UAE,AED,SEO Content Drive,Organic Search,9000,NovaPay Basic,Qualified,0.0,2024-05-05,,,1-10,59
+NP-1057,NovaPay,UK,GBP,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Qualified,0.0,2024-07-15,,,500+,97
+NP-1058,NovaPay,USA,USD,Influencer Summer,Influencer,22000,NovaPay Pro,Lead,0.0,2024-07-26,,,1-10,95
+NP-1059,NovaPay,India,INR,SEO Content Drive,Organic Search,9000,NovaPay Pro,Lead,0.0,2024-04-08,,,500+,49
+NP-1060,NovaPay,Germany,EUR,Influencer Summer,Influencer,22000,NovaPay Basic,Lead,0.0,2024-06-17,,,11-50,63
+NP-1061,NovaPay,USA,USD,Influencer Summer,Influencer,22000,NovaPay Pro,Negotiation,0.0,2024-08-12,,,51-200,61
+NP-1062,NovaPay,Singapore,SGD,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Lead,0.0,2024-07-23,,,500+,93
+NP-1063,NovaPay,India,INR,SEO Content Drive,Organic Search,9000,NovaPay Basic,Lead,0.0,2024-04-30,,,11-50,94
+NP-1064,NovaPay,Germany,EUR,Q1 Launch Blitz,Paid Social,18000,NovaPay Pro,Qualified,0.0,2024-01-21,,,11-50,96
+NP-1065,NovaPay,UK,GBP,SEO Content Drive,Organic Search,9000,NovaPay Basic,Lead,0.0,2024-04-01,,,201-500,88
+NP-1066,NovaPay,India,INR,Q1 Launch Blitz,Paid Social,18000,NovaPay Enterprise,Qualified,0.0,2024-02-28,,,201-500,61
+NP-1067,NovaPay,UK,GBP,Spring Email Push,Email,6000,NovaPay Pro,Negotiation,0.0,2024-02-28,False,False,11-50,32
+NP-1068,NovaPay,India,INR,Influencer Summer,Influencer,22000,NovaPay Basic,Lead,0.0,2024-06-16,,,201-500,27
+NP-1069,NovaPay,UAE,AED,Partner Referral Q2,Referral,12000,NovaPay Enterprise,Qualified,0.0,2024-05-31,,,500+,74
+NP-1070,NovaPay,Singapore,SGD,Partner Referral Q2,Referral,12000,NovaPay Pro,Negotiation,0.0,2024-06-04,,,201-500,43
+NP-1071,NovaPay,Singapore,SGD,Spring Email Push,Email,6000,NovaPay Basic,Demo,0.0,2024-04-17,False,False,51-200,66
+NP-1072,NovaPay,UAE,AED,Q1 Launch Blitz,Paid Social,18000,NovaPay Basic,Lead,0.0,2024-03-19,,,1-10,27
+NP-1073,NovaPay,UK,GBP,Spring Email Push,Email,6000,NovaPay Pro,Demo,0.0,2024-02-23,True,False,201-500,63
+NP-1074,NovaPay,UK,GBP,Q1 Launch Blitz,Paid Social,18000,NovaPay Basic,Negotiation,0.0,2024-03-24,,,1-10,83
+NP-1075,NovaPay,India,INR,Partner Referral Q2,Referral,12000,NovaPay Enterprise,Lead,0.0,2024-05-24,,,201-500,78
+NP-1076,NovaPay,UAE,AED,Influencer Summer,Influencer,22000,NovaPay Pro,Negotiation,0.0,2024-08-02,,,11-50,44
+NP-1077,NovaPay,India,INR,Partner Referral Q2,Referral,12000,NovaPay Basic,Demo,0.0,2024-05-26,,,11-50,69
+NP-1078,NovaPay,USA,USD,Spring Email Push,Email,6000,NovaPay Pro,Negotiation,0.0,2024-04-30,False,False,1-10,20
+NP-1079,NovaPay,Germany,EUR,Influencer Summer,Influencer,22000,NovaPay Enterprise,Lead,0.0,2024-07-04,,,201-500,51
+NP-1080,NovaPay,India,INR,Spring Email Push,Email,6000,NovaPay Basic,Negotiation,0.0,2024-03-21,False,False,201-500,42
+NP-1081,NovaPay,India,INR,Q1 Launch Blitz,Paid Social,18000,NovaPay Pro,Lead,0.0,2024-02-23,,,11-50,93
+NP-1082,NovaPay,UAE,AED,Q1 Launch Blitz,Paid Social,18000,NovaPay Pro,Demo,0.0,2024-02-10,,,11-50,12
+NP-1083,NovaPay,UK,GBP,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Demo,0.0,2024-07-21,,,11-50,69
+NP-1084,NovaPay,Germany,EUR,Influencer Summer,Influencer,22000,NovaPay Basic,Qualified,0.0,2024-06-15,,,11-50,49
+NP-1085,NovaPay,India,INR,Q1 Launch Blitz,Paid Social,18000,NovaPay Enterprise,Qualified,0.0,2024-02-27,,,201-500,35
+NP-1086,NovaPay,India,INR,Q1 Launch Blitz,Paid Social,18000,NovaPay Pro,Lead,0.0,2024-02-17,,,500+,25
+NP-1087,NovaPay,UAE,AED,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Qualified,0.0,2024-06-26,,,1-10,74
+NP-1088,NovaPay,Germany,EUR,Influencer Summer,Influencer,22000,NovaPay Pro,Proposal,0.0,2024-06-14,,,201-500,56
+NP-1089,NovaPay,Singapore,SGD,Influencer Summer,Influencer,22000,NovaPay Basic,Lead,0.0,2024-06-23,,,500+,93
+NP-1090,NovaPay,India,INR,SEO Content Drive,Organic Search,9000,NovaPay Enterprise,Demo,0.0,2024-04-29,,,201-500,85
+NP-1091,NovaPay,Germany,EUR,SEO Content Drive,Organic Search,9000,NovaPay Basic,Negotiation,0.0,2024-04-05,,,201-500,41
+NP-1092,NovaPay,India,INR,Partner Referral Q2,Referral,12000,NovaPay Pro,Lead,0.0,2024-06-07,,,51-200,33
+NP-1093,NovaPay,UK,GBP,Partner Referral Q2,Referral,12000,NovaPay Pro,Lead,0.0,2024-05-10,,,500+,11
+NP-1094,NovaPay,USA,USD,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Demo,0.0,2024-07-11,,,500+,40
+NP-1095,NovaPay,India,INR,Influencer Summer,Influencer,22000,NovaPay Pro,Qualified,0.0,2024-06-03,,,1-10,47
+NP-1096,NovaPay,Germany,EUR,Spring Email Push,Email,6000,NovaPay Basic,Demo,0.0,2024-04-02,False,False,500+,54
+NP-1097,NovaPay,USA,USD,Partner Referral Q2,Referral,12000,NovaPay Pro,Lead,0.0,2024-06-02,,,51-200,49
+NP-1098,NovaPay,UK,GBP,SEO Content Drive,Organic Search,9000,NovaPay Pro,Lead,0.0,2024-05-08,,,11-50,34
+NP-1099,NovaPay,UAE,AED,Spring Email Push,Email,6000,NovaPay Basic,Qualified,0.0,2024-04-22,False,False,1-10,34
+NP-1100,NovaPay,UK,GBP,SEO Content Drive,Organic Search,9000,NovaPay Basic,Lead,0.0,2024-05-08,,,11-50,45
+NP-1101,NovaPay,USA,USD,Q1 Launch Blitz,Paid Social,18000,NovaPay Pro,Demo,0.0,2024-01-26,,,201-500,23
+NP-1102,NovaPay,India,INR,Q1 Launch Blitz,Paid Social,18000,NovaPay Basic,Qualified,0.0,2024-02-02,,,1-10,42
+NP-1103,NovaPay,UK,GBP,Partner Referral Q2,Referral,12000,NovaPay Basic,Qualified,0.0,2024-06-17,,,1-10,29
+NP-1104,NovaPay,Singapore,SGD,Spring Email Push,Email,6000,NovaPay Enterprise,Lead,0.0,2024-03-17,True,False,500+,86
+NP-1105,NovaPay,UK,GBP,Fintech Webinar Series,Webinar,7500,NovaPay Pro,Qualified,0.0,2024-07-05,,,51-200,85
+NP-1106,NovaPay,Germany,EUR,Partner Referral Q2,Referral,12000,NovaPay Pro,Qualified,0.0,2024-04-17,,,11-50,90
+NP-1107,NovaPay,Germany,EUR,Spring Email Push,Email,6000,NovaPay Basic,Lead,0.0,2024-04-25,True,True,201-500,98
+NP-1108,NovaPay,India,INR,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Lead,0.0,2024-06-15,,,201-500,19
+NP-1109,NovaPay,UK,GBP,Influencer Summer,Influencer,22000,NovaPay Basic,Proposal,0.0,2024-08-15,,,11-50,64
+NP-1110,NovaPay,India,INR,Q1 Launch Blitz,Paid Social,18000,NovaPay Pro,Negotiation,0.0,2024-01-28,,,1-10,17
+NP-1111,NovaPay,UAE,AED,Spring Email Push,Email,6000,NovaPay Pro,Proposal,0.0,2024-03-22,False,False,201-500,98
+NP-1112,NovaPay,UAE,AED,SEO Content Drive,Organic Search,9000,NovaPay Enterprise,Qualified,0.0,2024-05-03,,,201-500,20
+NP-1113,NovaPay,UK,GBP,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Lead,0.0,2024-06-11,,,1-10,21
+NP-1114,NovaPay,USA,USD,Spring Email Push,Email,6000,NovaPay Pro,Qualified,0.0,2024-02-17,False,False,51-200,83
+NP-1115,NovaPay,UAE,AED,Q1 Launch Blitz,Paid Social,18000,NovaPay Basic,Qualified,0.0,2024-03-06,,,51-200,33
+NP-1116,NovaPay,Germany,EUR,Fintech Webinar Series,Webinar,7500,NovaPay Pro,Closed Won,904.92,2024-07-09,,,51-200,51
+NP-1117,NovaPay,UK,GBP,Influencer Summer,Influencer,22000,NovaPay Basic,Qualified,0.0,2024-08-03,,,51-200,94
+NP-1118,NovaPay,Singapore,SGD,Partner Referral Q2,Referral,12000,NovaPay Pro,Qualified,0.0,2024-05-15,,,51-200,51
+NP-1119,NovaPay,USA,USD,Q1 Launch Blitz,Paid Social,18000,NovaPay Basic,Qualified,0.0,2024-01-10,,,500+,69
+NP-1120,NovaPay,UK,GBP,Partner Referral Q2,Referral,12000,NovaPay Pro,Qualified,0.0,2024-06-07,,,201-500,16
+NP-1121,NovaPay,Germany,EUR,Spring Email Push,Email,6000,NovaPay Basic,Lead,0.0,2024-04-17,True,False,500+,40
+NP-1122,NovaPay,UK,GBP,Influencer Summer,Influencer,22000,NovaPay Pro,Qualified,0.0,2024-06-12,,,11-50,24
+NP-1123,NovaPay,USA,USD,Partner Referral Q2,Referral,12000,NovaPay Pro,Lead,0.0,2024-05-12,,,500+,44
+NP-1124,NovaPay,Singapore,SGD,Partner Referral Q2,Referral,12000,NovaPay Enterprise,Lead,0.0,2024-06-14,,,11-50,59
+NP-1125,NovaPay,USA,USD,Spring Email Push,Email,6000,NovaPay Pro,Negotiation,0.0,2024-02-23,True,False,201-500,53
+NP-1126,NovaPay,Germany,EUR,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Demo,0.0,2024-07-24,,,500+,94
+NP-1127,NovaPay,Singapore,SGD,Partner Referral Q2,Referral,12000,NovaPay Basic,Qualified,0.0,2024-05-17,,,500+,79
+NP-1128,NovaPay,India,INR,Partner Referral Q2,Referral,12000,NovaPay Basic,Lead,0.0,2024-05-05,,,500+,59
+NP-1129,NovaPay,Singapore,SGD,Spring Email Push,Email,6000,NovaPay Basic,Lead,0.0,2024-04-15,False,False,201-500,59
+NP-1130,NovaPay,UAE,AED,Influencer Summer,Influencer,22000,NovaPay Pro,Lead,0.0,2024-06-05,,,11-50,74
+NP-1131,NovaPay,Germany,EUR,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Proposal,0.0,2024-05-22,,,500+,68
+NP-1132,NovaPay,UAE,AED,Q1 Launch Blitz,Paid Social,18000,NovaPay Basic,Demo,0.0,2024-01-29,,,1-10,70
+NP-1133,NovaPay,Germany,EUR,SEO Content Drive,Organic Search,9000,NovaPay Pro,Demo,0.0,2024-04-12,,,500+,58
+NP-1134,NovaPay,India,INR,SEO Content Drive,Organic Search,9000,NovaPay Enterprise,Qualified,0.0,2024-05-09,,,1-10,89
+NP-1135,NovaPay,UK,GBP,Q1 Launch Blitz,Paid Social,18000,NovaPay Pro,Lead,0.0,2024-02-08,,,1-10,65
+NP-1136,NovaPay,UAE,AED,Q1 Launch Blitz,Paid Social,18000,NovaPay Pro,Lead,0.0,2024-01-31,,,51-200,13
+NP-1137,NovaPay,Germany,EUR,Q1 Launch Blitz,Paid Social,18000,NovaPay Basic,Lead,0.0,2024-03-05,,,11-50,41
+NP-1138,NovaPay,Germany,EUR,Fintech Webinar Series,Webinar,7500,NovaPay Pro,Lead,0.0,2024-06-01,,,1-10,88
+NP-1139,NovaPay,India,INR,Partner Referral Q2,Referral,12000,NovaPay Basic,Negotiation,0.0,2024-04-23,,,11-50,69
+NP-1140,NovaPay,Germany,EUR,Influencer Summer,Influencer,22000,NovaPay Basic,Lead,0.0,2024-07-30,,,51-200,96
+NP-1141,NovaPay,UK,GBP,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Lead,0.0,2024-07-24,,,51-200,91
+NP-1142,NovaPay,UAE,AED,Partner Referral Q2,Referral,12000,NovaPay Basic,Lead,0.0,2024-05-24,,,201-500,23
+NP-1143,NovaPay,Germany,EUR,Spring Email Push,Email,6000,NovaPay Basic,Lead,0.0,2024-03-23,True,False,201-500,45
+NP-1144,NovaPay,India,INR,Q1 Launch Blitz,Paid Social,18000,NovaPay Pro,Demo,0.0,2024-01-16,,,500+,73
+NP-1145,NovaPay,UAE,AED,SEO Content Drive,Organic Search,9000,NovaPay Basic,Proposal,0.0,2024-03-29,,,11-50,89
+NP-1146,NovaPay,UAE,AED,SEO Content Drive,Organic Search,9000,NovaPay Pro,Demo,0.0,2024-03-18,,,1-10,90
+NP-1147,NovaPay,UK,GBP,Influencer Summer,Influencer,22000,NovaPay Pro,Lead,0.0,2024-07-17,,,11-50,21
+NP-1148,NovaPay,Germany,EUR,SEO Content Drive,Organic Search,9000,NovaPay Basic,Lead,0.0,2024-05-09,,,51-200,77
+NP-1149,NovaPay,USA,USD,Fintech Webinar Series,Webinar,7500,NovaPay Pro,Lead,0.0,2024-07-10,,,51-200,53
+NP-1150,NovaPay,India,INR,Q1 Launch Blitz,Paid Social,18000,NovaPay Basic,Demo,0.0,2024-02-07,,,201-500,81
+NP-1151,NovaPay,UK,GBP,SEO Content Drive,Organic Search,9000,NovaPay Basic,Lead,0.0,2024-03-16,,,201-500,57
+NP-1152,NovaPay,UAE,AED,Influencer Summer,Influencer,22000,NovaPay Basic,Lead,0.0,2024-07-18,,,1-10,96
+NP-1153,NovaPay,India,INR,Spring Email Push,Email,6000,NovaPay Pro,Closed Won,1134.42,2024-03-27,True,True,201-500,99
+NP-1154,NovaPay,India,INR,SEO Content Drive,Organic Search,9000,NovaPay Basic,Lead,0.0,2024-03-05,,,51-200,73
+NP-1155,NovaPay,UK,GBP,Q1 Launch Blitz,Paid Social,18000,NovaPay Enterprise,Lead,0.0,2024-03-08,,,51-200,95
+NP-1156,NovaPay,UAE,AED,Influencer Summer,Influencer,22000,NovaPay Pro,Qualified,0.0,2024-06-20,,,201-500,93
+NP-1157,NovaPay,Singapore,SGD,Q1 Launch Blitz,Paid Social,18000,NovaPay Pro,Closed Won,777.39,2024-02-14,,,51-200,37
+NP-1158,NovaPay,Germany,EUR,Partner Referral Q2,Referral,12000,NovaPay Basic,Lead,0.0,2024-05-22,,,500+,92
+NP-1159,NovaPay,UK,GBP,SEO Content Drive,Organic Search,9000,NovaPay Basic,Closed Won,266.48,2024-04-28,,,11-50,92
+NP-1160,NovaPay,India,INR,Influencer Summer,Influencer,22000,NovaPay Basic,Demo,0.0,2024-07-02,,,11-50,82
+NP-1161,NovaPay,UK,GBP,Spring Email Push,Email,6000,NovaPay Pro,Lead,0.0,2024-03-13,False,False,11-50,52
+NP-1162,NovaPay,UAE,AED,Spring Email Push,Email,6000,NovaPay Pro,Lead,0.0,2024-03-04,False,False,500+,42
+NP-1163,NovaPay,UK,GBP,Spring Email Push,Email,6000,NovaPay Enterprise,Lead,0.0,2024-03-31,False,False,11-50,85
+NP-1164,NovaPay,UK,GBP,SEO Content Drive,Organic Search,9000,NovaPay Basic,Lead,0.0,2024-04-23,,,500+,24
+NP-1165,NovaPay,UK,GBP,Influencer Summer,Influencer,22000,NovaPay Basic,Lead,0.0,2024-08-15,,,1-10,67
+NP-1166,NovaPay,UK,GBP,Fintech Webinar Series,Webinar,7500,NovaPay Pro,Demo,0.0,2024-07-15,,,51-200,68
+NP-1167,NovaPay,USA,USD,Influencer Summer,Influencer,22000,NovaPay Basic,Qualified,0.0,2024-07-22,,,201-500,97
+NP-1168,NovaPay,India,INR,Q1 Launch Blitz,Paid Social,18000,NovaPay Enterprise,Lead,0.0,2024-01-20,,,51-200,87
+NP-1169,NovaPay,UK,GBP,Spring Email Push,Email,6000,NovaPay Basic,Qualified,0.0,2024-04-25,False,False,201-500,86
+NP-1170,NovaPay,Germany,EUR,Fintech Webinar Series,Webinar,7500,NovaPay Pro,Qualified,0.0,2024-05-24,,,500+,37
+NP-1171,NovaPay,India,INR,Partner Referral Q2,Referral,12000,NovaPay Basic,Lead,0.0,2024-06-02,,,201-500,63
+NP-1172,NovaPay,UK,GBP,Influencer Summer,Influencer,22000,NovaPay Basic,Demo,0.0,2024-07-18,,,11-50,97
+NP-1173,NovaPay,UK,GBP,Partner Referral Q2,Referral,12000,NovaPay Pro,Lead,0.0,2024-04-17,,,51-200,26
+NP-1174,NovaPay,UK,GBP,Fintech Webinar Series,Webinar,7500,NovaPay Enterprise,Qualified,0.0,2024-05-25,,,201-500,55
+NP-1175,NovaPay,USA,USD,Influencer Summer,Influencer,22000,NovaPay Basic,Negotiation,0.0,2024-06-07,,,51-200,86
+NP-1176,NovaPay,Germany,EUR,SEO Content Drive,Organic Search,9000,NovaPay Pro,Lead,0.0,2024-05-01,,,11-50,23
+NP-1177,NovaPay,Singapore,SGD,SEO Content Drive,Organic Search,9000,NovaPay Basic,Demo,0.0,2024-05-13,,,11-50,64
+NP-1178,NovaPay,USA,USD,Fintech Webinar Series,Webinar,7500,NovaPay Pro,Qualified,0.0,2024-07-20,,,1-10,87
+NP-1179,NovaPay,Singapore,SGD,Influencer Summer,Influencer,22000,NovaPay Basic,Lead,0.0,2024-07-10,,,51-200,54
+NP-1180,NovaPay,UK,GBP,Q1 Launch Blitz,Paid Social,18000,NovaPay Basic,Demo,0.0,2024-01-18,,,11-50,91
+NP-1181,NovaPay,UK,GBP,Q1 Launch Blitz,Paid Social,18000,NovaPay Pro,Lead,0.0,2024-03-08,,,51-200,30
+NP-1182,NovaPay,Germany,EUR,SEO Content Drive,Organic Search,9000,NovaPay Basic,Closed Won,373.0,2024-03-11,,,11-50,30
+NP-1183,NovaPay,UK,GBP,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Qualified,0.0,2024-07-03,,,201-500,87
+NP-1184,NovaPay,Germany,EUR,Partner Referral Q2,Referral,12000,NovaPay Basic,Qualified,0.0,2024-05-19,,,201-500,24
+NP-1185,NovaPay,UAE,AED,SEO Content Drive,Organic Search,9000,NovaPay Pro,Qualified,0.0,2024-04-09,,,1-10,38
+NP-1186,NovaPay,USA,USD,Partner Referral Q2,Referral,12000,NovaPay Basic,Lead,0.0,2024-05-02,,,11-50,42
+NP-1187,NovaPay,Germany,EUR,SEO Content Drive,Organic Search,9000,NovaPay Basic,Demo,0.0,2024-03-23,,,11-50,58
+NP-1188,NovaPay,UAE,AED,Fintech Webinar Series,Webinar,7500,NovaPay Pro,Proposal,0.0,2024-06-24,,,1-10,60
+NP-1189,NovaPay,UK,GBP,Influencer Summer,Influencer,22000,NovaPay Basic,Negotiation,0.0,2024-07-11,,,500+,64
+NP-1190,NovaPay,Germany,EUR,Fintech Webinar Series,Webinar,7500,NovaPay Pro,Lead,0.0,2024-06-30,,,1-10,51
+NP-1191,NovaPay,Singapore,SGD,Spring Email Push,Email,6000,NovaPay Pro,Proposal,0.0,2024-04-01,True,False,11-50,65
+NP-1192,NovaPay,Germany,EUR,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Proposal,0.0,2024-06-22,,,11-50,52
+NP-1193,NovaPay,UK,GBP,Spring Email Push,Email,6000,NovaPay Pro,Qualified,0.0,2024-03-10,False,False,51-200,54
+NP-1194,NovaPay,USA,USD,Influencer Summer,Influencer,22000,NovaPay Pro,Lead,0.0,2024-06-14,,,11-50,42
+NP-1195,NovaPay,UK,GBP,Spring Email Push,Email,6000,NovaPay Basic,Demo,0.0,2024-02-24,True,False,201-500,69
+NP-1196,NovaPay,UAE,AED,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Negotiation,0.0,2024-07-21,,,500+,51
+NP-1197,NovaPay,Germany,EUR,Influencer Summer,Influencer,22000,NovaPay Basic,Qualified,0.0,2024-07-09,,,51-200,85
+NP-1198,NovaPay,Germany,EUR,Q1 Launch Blitz,Paid Social,18000,NovaPay Basic,Qualified,0.0,2024-01-14,,,1-10,57
+NP-1199,NovaPay,UK,GBP,SEO Content Drive,Organic Search,9000,NovaPay Enterprise,Proposal,0.0,2024-05-04,,,201-500,69
+NP-1200,NovaPay,India,INR,Fintech Webinar Series,Webinar,7500,NovaPay Pro,Negotiation,0.0,2024-07-06,,,500+,93
+NP-1201,NovaPay,Germany,EUR,Spring Email Push,Email,6000,NovaPay Basic,Lead,0.0,2024-02-22,False,False,51-200,20
+NP-1202,NovaPay,India,INR,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Demo,0.0,2024-07-05,,,500+,76
+NP-1203,NovaPay,UK,GBP,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Lead,0.0,2024-07-01,,,51-200,96
+NP-1204,NovaPay,UK,GBP,Fintech Webinar Series,Webinar,7500,NovaPay Pro,Lead,0.0,2024-06-21,,,1-10,81
+NP-1205,NovaPay,Germany,EUR,Influencer Summer,Influencer,22000,NovaPay Basic,Proposal,0.0,2024-06-20,,,51-200,20
+NP-1206,NovaPay,UAE,AED,Fintech Webinar Series,Webinar,7500,NovaPay Enterprise,Lead,0.0,2024-06-29,,,11-50,86
+NP-1207,NovaPay,USA,USD,Influencer Summer,Influencer,22000,NovaPay Basic,Lead,0.0,2024-07-13,,,11-50,95
+NP-1208,NovaPay,Singapore,SGD,Influencer Summer,Influencer,22000,NovaPay Pro,Demo,0.0,2024-08-07,,,1-10,92
+NP-1209,NovaPay,Germany,EUR,Influencer Summer,Influencer,22000,NovaPay Basic,Lead,0.0,2024-06-24,,,11-50,53
+NP-1210,NovaPay,UK,GBP,Partner Referral Q2,Referral,12000,NovaPay Enterprise,Lead,0.0,2024-05-12,,,1-10,74
+NP-1211,NovaPay,Singapore,SGD,Fintech Webinar Series,Webinar,7500,NovaPay Enterprise,Lead,0.0,2024-06-22,,,500+,26
+NP-1212,NovaPay,Germany,EUR,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Proposal,0.0,2024-05-31,,,201-500,15
+NP-1213,NovaPay,Germany,EUR,Partner Referral Q2,Referral,12000,NovaPay Pro,Closed Won,1068.53,2024-05-11,,,201-500,39
+NP-1214,NovaPay,UK,GBP,Fintech Webinar Series,Webinar,7500,NovaPay Enterprise,Demo,0.0,2024-06-03,,,51-200,96
+NP-1215,NovaPay,USA,USD,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Lead,0.0,2024-06-27,,,500+,77
+NP-1216,NovaPay,USA,USD,Partner Referral Q2,Referral,12000,NovaPay Pro,Proposal,0.0,2024-04-22,,,51-200,16
+NP-1217,NovaPay,India,INR,Influencer Summer,Influencer,22000,NovaPay Basic,Negotiation,0.0,2024-08-06,,,1-10,46
+NP-1218,NovaPay,UAE,AED,Q1 Launch Blitz,Paid Social,18000,NovaPay Basic,Negotiation,0.0,2024-01-28,,,201-500,21
+NP-1219,NovaPay,Singapore,SGD,Spring Email Push,Email,6000,NovaPay Enterprise,Negotiation,0.0,2024-04-08,True,False,11-50,59
+NP-1220,NovaPay,Germany,EUR,Q1 Launch Blitz,Paid Social,18000,NovaPay Basic,Negotiation,0.0,2024-02-21,,,11-50,27
+NP-1221,NovaPay,Germany,EUR,Q1 Launch Blitz,Paid Social,18000,NovaPay Pro,Demo,0.0,2024-01-27,,,201-500,67
+NP-1222,NovaPay,UK,GBP,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Lead,0.0,2024-05-29,,,500+,87
+NP-1223,NovaPay,Germany,EUR,Fintech Webinar Series,Webinar,7500,NovaPay Pro,Lead,0.0,2024-05-25,,,1-10,40
+NP-1224,NovaPay,India,INR,Partner Referral Q2,Referral,12000,NovaPay Pro,Lead,0.0,2024-06-07,,,500+,78
+NP-1225,NovaPay,India,INR,Q1 Launch Blitz,Paid Social,18000,NovaPay Pro,Demo,0.0,2024-02-16,,,201-500,10
+NP-1226,NovaPay,Germany,EUR,Fintech Webinar Series,Webinar,7500,NovaPay Pro,Lead,0.0,2024-05-20,,,500+,56
+NP-1227,NovaPay,USA,USD,Q1 Launch Blitz,Paid Social,18000,NovaPay Pro,Demo,0.0,2024-03-14,,,500+,12
+NP-1228,NovaPay,Singapore,SGD,Partner Referral Q2,Referral,12000,NovaPay Basic,Lead,0.0,2024-05-22,,,51-200,12
+NP-1229,NovaPay,UAE,AED,SEO Content Drive,Organic Search,9000,NovaPay Basic,Demo,0.0,2024-03-14,,,500+,52
+NP-1230,NovaPay,UK,GBP,Spring Email Push,Email,6000,NovaPay Pro,Proposal,0.0,2024-03-08,False,False,201-500,99
+NP-1231,NovaPay,India,INR,Partner Referral Q2,Referral,12000,NovaPay Pro,Lead,0.0,2024-06-02,,,1-10,47
+NP-1232,NovaPay,UK,GBP,Spring Email Push,Email,6000,NovaPay Basic,Lead,0.0,2024-03-25,False,False,500+,70
+NP-1233,NovaPay,UK,GBP,SEO Content Drive,Organic Search,9000,NovaPay Pro,Lead,0.0,2024-03-07,,,51-200,44
+NP-1234,NovaPay,UAE,AED,Q1 Launch Blitz,Paid Social,18000,NovaPay Basic,Lead,0.0,2024-03-06,,,201-500,53
+NP-1235,NovaPay,India,INR,Spring Email Push,Email,6000,NovaPay Basic,Negotiation,0.0,2024-04-21,True,True,201-500,20
+NP-1236,NovaPay,India,INR,Partner Referral Q2,Referral,12000,NovaPay Pro,Qualified,0.0,2024-05-16,,,1-10,20
+NP-1237,NovaPay,UAE,AED,SEO Content Drive,Organic Search,9000,NovaPay Basic,Qualified,0.0,2024-04-24,,,11-50,98
+NP-1238,NovaPay,Germany,EUR,Partner Referral Q2,Referral,12000,NovaPay Basic,Proposal,0.0,2024-05-20,,,500+,65
+NP-1239,NovaPay,India,INR,SEO Content Drive,Organic Search,9000,NovaPay Pro,Lead,0.0,2024-04-21,,,51-200,75
+NP-1240,NovaPay,UAE,AED,Influencer Summer,Influencer,22000,NovaPay Enterprise,Lead,0.0,2024-07-27,,,1-10,26
+NP-1241,NovaPay,UK,GBP,Q1 Launch Blitz,Paid Social,18000,NovaPay Pro,Lead,0.0,2024-03-22,,,1-10,87
+NP-1242,NovaPay,UAE,AED,Spring Email Push,Email,6000,NovaPay Enterprise,Lead,0.0,2024-02-24,False,False,500+,56
+NP-1243,NovaPay,Germany,EUR,Partner Referral Q2,Referral,12000,NovaPay Basic,Closed Won,353.14,2024-04-08,,,201-500,76
+NP-1244,NovaPay,USA,USD,Partner Referral Q2,Referral,12000,NovaPay Basic,Demo,0.0,2024-06-01,,,11-50,88
+NP-1245,NovaPay,UAE,AED,SEO Content Drive,Organic Search,9000,NovaPay Enterprise,Lead,0.0,2024-03-18,,,1-10,67
+NP-1246,NovaPay,Singapore,SGD,Spring Email Push,Email,6000,NovaPay Basic,Lead,0.0,2024-03-26,False,False,1-10,80
+NP-1247,NovaPay,Germany,EUR,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Lead,0.0,2024-06-01,,,51-200,75
+NP-1248,NovaPay,UK,GBP,Spring Email Push,Email,6000,NovaPay Basic,Lead,0.0,2024-04-18,True,False,51-200,69
+NP-1249,NovaPay,UK,GBP,Fintech Webinar Series,Webinar,7500,NovaPay Enterprise,Lead,0.0,2024-06-29,,,201-500,77
+NP-1250,NovaPay,UAE,AED,Partner Referral Q2,Referral,12000,NovaPay Pro,Lead,0.0,2024-05-15,,,1-10,67
+NP-1251,NovaPay,UAE,AED,Partner Referral Q2,Referral,12000,NovaPay Basic,Negotiation,0.0,2024-06-14,,,500+,33
+NP-1252,NovaPay,Germany,EUR,Spring Email Push,Email,6000,NovaPay Enterprise,Lead,0.0,2024-03-01,False,False,51-200,31
+NP-1253,NovaPay,Germany,EUR,Spring Email Push,Email,6000,NovaPay Pro,Lead,0.0,2024-04-21,False,False,1-10,42
+NP-1254,NovaPay,India,INR,Spring Email Push,Email,6000,NovaPay Pro,Lead,0.0,2024-03-24,False,False,1-10,74
+NP-1255,NovaPay,UK,GBP,Influencer Summer,Influencer,22000,NovaPay Enterprise,Lead,0.0,2024-07-14,,,500+,15
+NP-1256,NovaPay,UK,GBP,Q1 Launch Blitz,Paid Social,18000,NovaPay Enterprise,Demo,0.0,2024-02-12,,,11-50,83
+NP-1257,NovaPay,India,INR,Partner Referral Q2,Referral,12000,NovaPay Basic,Negotiation,0.0,2024-06-13,,,51-200,92
+NP-1258,NovaPay,India,INR,SEO Content Drive,Organic Search,9000,NovaPay Pro,Demo,0.0,2024-04-08,,,201-500,19
+NP-1259,NovaPay,UK,GBP,Influencer Summer,Influencer,22000,NovaPay Basic,Qualified,0.0,2024-06-27,,,51-200,87
+NP-1260,NovaPay,Germany,EUR,Spring Email Push,Email,6000,NovaPay Pro,Demo,0.0,2024-03-30,False,False,11-50,57
+NP-1261,NovaPay,India,INR,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Qualified,0.0,2024-06-13,,,201-500,41
+NP-1262,NovaPay,UK,GBP,Spring Email Push,Email,6000,NovaPay Basic,Lead,0.0,2024-04-08,True,False,11-50,51
+NP-1263,NovaPay,UAE,AED,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Lead,0.0,2024-07-14,,,201-500,73
+NP-1264,NovaPay,India,INR,SEO Content Drive,Organic Search,9000,NovaPay Basic,Lead,0.0,2024-04-28,,,11-50,37
+NP-1265,NovaPay,Germany,EUR,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Qualified,0.0,2024-07-09,,,51-200,78
+NP-1266,NovaPay,Singapore,SGD,Q1 Launch Blitz,Paid Social,18000,NovaPay Basic,Negotiation,0.0,2024-02-25,,,201-500,56
+NP-1267,NovaPay,Germany,EUR,Q1 Launch Blitz,Paid Social,18000,NovaPay Pro,Lead,0.0,2024-03-20,,,51-200,19
+NP-1268,NovaPay,India,INR,Partner Referral Q2,Referral,12000,NovaPay Pro,Lead,0.0,2024-04-20,,,11-50,22
+NP-1269,NovaPay,Germany,EUR,Partner Referral Q2,Referral,12000,NovaPay Enterprise,Qualified,0.0,2024-05-21,,,11-50,35
+NP-1270,NovaPay,India,INR,Fintech Webinar Series,Webinar,7500,NovaPay Pro,Lead,0.0,2024-05-27,,,51-200,70
+NP-1271,NovaPay,India,INR,Fintech Webinar Series,Webinar,7500,NovaPay Pro,Qualified,0.0,2024-06-20,,,500+,50
+NP-1272,NovaPay,Germany,EUR,Spring Email Push,Email,6000,NovaPay Pro,Proposal,0.0,2024-04-30,True,False,500+,72
+NP-1273,NovaPay,India,INR,Influencer Summer,Influencer,22000,NovaPay Basic,Lead,0.0,2024-07-13,,,1-10,63
+NP-1274,NovaPay,Germany,EUR,Fintech Webinar Series,Webinar,7500,NovaPay Enterprise,Proposal,0.0,2024-05-13,,,500+,70
+NP-1275,NovaPay,USA,USD,SEO Content Drive,Organic Search,9000,NovaPay Pro,Demo,0.0,2024-05-13,,,11-50,16
+NP-1276,NovaPay,India,INR,Fintech Webinar Series,Webinar,7500,NovaPay Pro,Demo,0.0,2024-06-27,,,11-50,97
+NP-1277,NovaPay,UK,GBP,Spring Email Push,Email,6000,NovaPay Enterprise,Lead,0.0,2024-02-17,False,False,201-500,29
+NP-1278,NovaPay,UAE,AED,Partner Referral Q2,Referral,12000,NovaPay Basic,Demo,0.0,2024-06-04,,,1-10,27
+NP-1279,NovaPay,UK,GBP,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Demo,0.0,2024-07-16,,,201-500,50
+NP-1280,NovaPay,India,INR,Spring Email Push,Email,6000,NovaPay Pro,Qualified,0.0,2024-03-19,False,False,11-50,41
+NP-1281,NovaPay,India,INR,SEO Content Drive,Organic Search,9000,NovaPay Basic,Closed Won,357.91,2024-04-08,,,11-50,98
+NP-1282,NovaPay,India,INR,Influencer Summer,Influencer,22000,NovaPay Basic,Qualified,0.0,2024-07-06,,,51-200,25
+NP-1283,NovaPay,UAE,AED,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Closed Lost,0.0,2024-06-23,,,11-50,47
+NP-1284,NovaPay,Germany,EUR,Q1 Launch Blitz,Paid Social,18000,NovaPay Pro,Lead,0.0,2024-03-06,,,51-200,71
+NP-1285,NovaPay,UK,GBP,Spring Email Push,Email,6000,NovaPay Pro,Negotiation,0.0,2024-03-20,True,False,500+,40
+NP-1286,NovaPay,UK,GBP,Spring Email Push,Email,6000,NovaPay Enterprise,Lead,0.0,2024-03-15,True,False,201-500,22
+NP-1287,NovaPay,UAE,AED,Influencer Summer,Influencer,22000,NovaPay Basic,Qualified,0.0,2024-06-21,,,201-500,93
+NP-1288,NovaPay,India,INR,Partner Referral Q2,Referral,12000,NovaPay Basic,Closed Won,292.55,2024-05-16,,,1-10,21
+NP-1289,NovaPay,India,INR,Influencer Summer,Influencer,22000,NovaPay Pro,Demo,0.0,2024-06-05,,,11-50,63
+NP-1290,NovaPay,USA,USD,Spring Email Push,Email,6000,NovaPay Basic,Proposal,0.0,2024-04-18,True,False,51-200,14
+NP-1291,NovaPay,Germany,EUR,Q1 Launch Blitz,Paid Social,18000,NovaPay Pro,Negotiation,0.0,2024-02-21,,,51-200,68
+NP-1292,NovaPay,India,INR,Influencer Summer,Influencer,22000,NovaPay Basic,Negotiation,0.0,2024-08-04,,,201-500,44
+NP-1293,NovaPay,Singapore,SGD,Spring Email Push,Email,6000,NovaPay Basic,Demo,0.0,2024-03-18,False,False,1-10,53
+NP-1294,NovaPay,India,INR,SEO Content Drive,Organic Search,9000,NovaPay Pro,Lead,0.0,2024-04-21,,,201-500,75
+NP-1295,NovaPay,UK,GBP,SEO Content Drive,Organic Search,9000,NovaPay Pro,Lead,0.0,2024-03-18,,,201-500,51
+NP-1296,NovaPay,UK,GBP,Spring Email Push,Email,6000,NovaPay Basic,Qualified,0.0,2024-03-20,False,False,51-200,84
+NP-1297,NovaPay,India,INR,Influencer Summer,Influencer,22000,NovaPay Basic,Lead,0.0,2024-07-01,,,1-10,95
+NP-1298,NovaPay,India,INR,Q1 Launch Blitz,Paid Social,18000,NovaPay Basic,Demo,0.0,2024-02-18,,,1-10,91
+NP-1299,NovaPay,Germany,EUR,SEO Content Drive,Organic Search,9000,NovaPay Basic,Closed Won,274.76,2024-05-01,,,500+,57
+NP-1300,NovaPay,UAE,AED,Partner Referral Q2,Referral,12000,NovaPay Enterprise,Demo,0.0,2024-05-02,,,11-50,97
+NP-1301,NovaPay,Singapore,SGD,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Qualified,0.0,2024-06-25,,,1-10,82
+NP-1302,NovaPay,UK,GBP,Q1 Launch Blitz,Paid Social,18000,NovaPay Pro,Qualified,0.0,2024-03-23,,,500+,29
+NP-1303,NovaPay,Germany,EUR,Spring Email Push,Email,6000,NovaPay Pro,Lead,0.0,2024-03-12,False,False,201-500,21
+NP-1304,NovaPay,Germany,EUR,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Lead,0.0,2024-07-02,,,201-500,82
+NP-1305,NovaPay,India,INR,Q1 Launch Blitz,Paid Social,18000,NovaPay Pro,Lead,0.0,2024-01-12,,,201-500,42
+NP-1306,NovaPay,UAE,AED,Q1 Launch Blitz,Paid Social,18000,NovaPay Pro,Lead,0.0,2024-02-23,,,1-10,79
+NP-1307,NovaPay,USA,USD,Q1 Launch Blitz,Paid Social,18000,NovaPay Basic,Negotiation,0.0,2024-01-14,,,51-200,62
+NP-1308,NovaPay,UAE,AED,Spring Email Push,Email,6000,NovaPay Pro,Closed Lost,0.0,2024-04-08,True,False,201-500,58
+NP-1309,NovaPay,UK,GBP,Partner Referral Q2,Referral,12000,NovaPay Enterprise,Proposal,0.0,2024-04-22,,,51-200,25
+NP-1310,NovaPay,USA,USD,Spring Email Push,Email,6000,NovaPay Basic,Lead,0.0,2024-03-14,False,False,1-10,48
+NP-1311,NovaPay,UAE,AED,Partner Referral Q2,Referral,12000,NovaPay Pro,Qualified,0.0,2024-05-04,,,11-50,68
+NP-1312,NovaPay,UK,GBP,SEO Content Drive,Organic Search,9000,NovaPay Basic,Proposal,0.0,2024-03-15,,,1-10,94
+NP-1313,NovaPay,India,INR,Partner Referral Q2,Referral,12000,NovaPay Enterprise,Negotiation,0.0,2024-05-05,,,11-50,18
+NP-1314,NovaPay,India,INR,Q1 Launch Blitz,Paid Social,18000,NovaPay Basic,Demo,0.0,2024-01-16,,,11-50,15
+NP-1315,NovaPay,Germany,EUR,Partner Referral Q2,Referral,12000,NovaPay Pro,Demo,0.0,2024-04-12,,,11-50,74
+NP-1316,NovaPay,UK,GBP,SEO Content Drive,Organic Search,9000,NovaPay Enterprise,Qualified,0.0,2024-05-13,,,500+,96
+NP-1317,NovaPay,UK,GBP,SEO Content Drive,Organic Search,9000,NovaPay Enterprise,Closed Lost,0.0,2024-05-06,,,11-50,62
+NP-1318,NovaPay,Germany,EUR,SEO Content Drive,Organic Search,9000,NovaPay Pro,Qualified,0.0,2024-03-23,,,201-500,81
+NP-1319,NovaPay,UK,GBP,Partner Referral Q2,Referral,12000,NovaPay Basic,Qualified,0.0,2024-05-23,,,500+,50
+NP-1320,NovaPay,Germany,EUR,Influencer Summer,Influencer,22000,NovaPay Basic,Lead,0.0,2024-08-08,,,201-500,40
+NP-1321,NovaPay,Germany,EUR,Spring Email Push,Email,6000,NovaPay Pro,Proposal,0.0,2024-02-22,False,False,201-500,81
+NP-1322,NovaPay,UK,GBP,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Lead,0.0,2024-05-20,,,201-500,57
+NP-1323,NovaPay,India,INR,Q1 Launch Blitz,Paid Social,18000,NovaPay Pro,Lead,0.0,2024-02-27,,,500+,87
+NP-1324,NovaPay,Singapore,SGD,Q1 Launch Blitz,Paid Social,18000,NovaPay Basic,Demo,0.0,2024-03-21,,,11-50,71
+NP-1325,NovaPay,Singapore,SGD,Spring Email Push,Email,6000,NovaPay Basic,Closed Won,282.65,2024-02-16,True,False,201-500,41
+NP-1326,NovaPay,India,INR,Influencer Summer,Influencer,22000,NovaPay Basic,Negotiation,0.0,2024-08-10,,,51-200,46
+NP-1327,NovaPay,India,INR,Partner Referral Q2,Referral,12000,NovaPay Pro,Lead,0.0,2024-05-21,,,500+,73
+NP-1328,NovaPay,UK,GBP,Partner Referral Q2,Referral,12000,NovaPay Enterprise,Qualified,0.0,2024-05-15,,,11-50,57
+NP-1329,NovaPay,Germany,EUR,SEO Content Drive,Organic Search,9000,NovaPay Pro,Lead,0.0,2024-03-19,,,1-10,43
+NP-1330,NovaPay,USA,USD,Fintech Webinar Series,Webinar,7500,NovaPay Pro,Qualified,0.0,2024-05-29,,,11-50,52
+NP-1331,NovaPay,Germany,EUR,Spring Email Push,Email,6000,NovaPay Pro,Qualified,0.0,2024-03-29,True,False,201-500,68
+NP-1332,NovaPay,UAE,AED,Spring Email Push,Email,6000,NovaPay Basic,Lead,0.0,2024-04-24,False,False,500+,92
+NP-1333,NovaPay,India,INR,Q1 Launch Blitz,Paid Social,18000,NovaPay Pro,Lead,0.0,2024-01-16,,,1-10,62
+NP-1334,NovaPay,Singapore,SGD,Spring Email Push,Email,6000,NovaPay Basic,Demo,0.0,2024-02-16,True,False,1-10,89
+NP-1335,NovaPay,UAE,AED,Influencer Summer,Influencer,22000,NovaPay Pro,Qualified,0.0,2024-08-02,,,1-10,10
+NP-1336,NovaPay,India,INR,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Qualified,0.0,2024-06-14,,,500+,46
+NP-1337,NovaPay,India,INR,Q1 Launch Blitz,Paid Social,18000,NovaPay Pro,Qualified,0.0,2024-02-01,,,1-10,22
+NP-1338,NovaPay,UK,GBP,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Qualified,0.0,2024-06-24,,,51-200,60
+NP-1339,NovaPay,Germany,EUR,Q1 Launch Blitz,Paid Social,18000,NovaPay Basic,Qualified,0.0,2024-02-07,,,51-200,97
+NP-1340,NovaPay,UAE,AED,Q1 Launch Blitz,Paid Social,18000,NovaPay Enterprise,Demo,0.0,2024-01-21,,,201-500,58
+NP-1341,NovaPay,India,INR,Partner Referral Q2,Referral,12000,NovaPay Basic,Lead,0.0,2024-04-26,,,1-10,73
+NP-1342,NovaPay,India,INR,Partner Referral Q2,Referral,12000,NovaPay Basic,Closed Lost,0.0,2024-04-17,,,500+,15
+NP-1343,NovaPay,UK,GBP,Spring Email Push,Email,6000,NovaPay Enterprise,Negotiation,0.0,2024-04-15,True,False,51-200,79
+NP-1344,NovaPay,UAE,AED,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Proposal,0.0,2024-05-12,,,11-50,85
+NP-1345,NovaPay,UAE,AED,Spring Email Push,Email,6000,NovaPay Pro,Lead,0.0,2024-02-24,True,False,500+,59
+NP-1346,NovaPay,Singapore,SGD,Influencer Summer,Influencer,22000,NovaPay Basic,Demo,0.0,2024-06-18,,,1-10,74
+NP-1347,NovaPay,USA,USD,Influencer Summer,Influencer,22000,NovaPay Basic,Qualified,0.0,2024-06-10,,,51-200,87
+NP-1348,NovaPay,USA,USD,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Demo,0.0,2024-05-13,,,51-200,67
+NP-1349,NovaPay,UK,GBP,Partner Referral Q2,Referral,12000,NovaPay Pro,Lead,0.0,2024-04-28,,,500+,94
+NP-1350,NovaPay,UK,GBP,Partner Referral Q2,Referral,12000,NovaPay Pro,Proposal,0.0,2024-04-14,,,1-10,44
+NP-1351,NovaPay,Germany,EUR,Spring Email Push,Email,6000,NovaPay Pro,Lead,0.0,2024-04-04,True,True,1-10,49
+NP-1352,NovaPay,Germany,EUR,Partner Referral Q2,Referral,12000,NovaPay Basic,Lead,0.0,2024-04-28,,,201-500,67
+NP-1353,NovaPay,India,INR,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Lead,0.0,2024-06-24,,,500+,21
+NP-1354,NovaPay,India,INR,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Lead,0.0,2024-06-16,,,201-500,59
+NP-1355,NovaPay,UAE,AED,Q1 Launch Blitz,Paid Social,18000,NovaPay Pro,Closed Lost,0.0,2024-02-10,,,500+,76
+NP-1356,NovaPay,UAE,AED,Spring Email Push,Email,6000,NovaPay Basic,Lead,0.0,2024-03-20,False,False,1-10,31
+NP-1357,NovaPay,Germany,EUR,Partner Referral Q2,Referral,12000,NovaPay Basic,Demo,0.0,2024-05-21,,,51-200,41
+NP-1358,NovaPay,India,INR,Influencer Summer,Influencer,22000,NovaPay Pro,Lead,0.0,2024-06-14,,,11-50,48
+NP-1359,NovaPay,USA,USD,Q1 Launch Blitz,Paid Social,18000,NovaPay Basic,Qualified,0.0,2024-02-21,,,201-500,52
+NP-1360,NovaPay,Singapore,SGD,Partner Referral Q2,Referral,12000,NovaPay Enterprise,Closed Won,2462.0,2024-04-22,,,500+,98
+NP-1361,NovaPay,India,INR,Spring Email Push,Email,6000,NovaPay Basic,Lead,0.0,2024-03-26,True,False,201-500,83
+NP-1362,NovaPay,Germany,EUR,Spring Email Push,Email,6000,NovaPay Basic,Demo,0.0,2024-04-01,True,False,500+,79
+NP-1363,NovaPay,UAE,AED,Spring Email Push,Email,6000,NovaPay Pro,Closed Won,1145.63,2024-04-14,True,False,1-10,62
+NP-1364,NovaPay,India,INR,Influencer Summer,Influencer,22000,NovaPay Pro,Lead,0.0,2024-06-20,,,201-500,58
+NP-1365,NovaPay,Germany,EUR,Q1 Launch Blitz,Paid Social,18000,NovaPay Pro,Qualified,0.0,2024-03-18,,,500+,98
+NP-1366,NovaPay,India,INR,Partner Referral Q2,Referral,12000,NovaPay Pro,Lead,0.0,2024-06-12,,,500+,91
+NP-1367,NovaPay,UK,GBP,Q1 Launch Blitz,Paid Social,18000,NovaPay Basic,Demo,0.0,2024-01-31,,,500+,15
+NP-1368,NovaPay,USA,USD,Fintech Webinar Series,Webinar,7500,NovaPay Pro,Lead,0.0,2024-06-21,,,201-500,23
+NP-1369,NovaPay,UK,GBP,Q1 Launch Blitz,Paid Social,18000,NovaPay Basic,Demo,0.0,2024-03-21,,,500+,98
+NP-1370,NovaPay,UK,GBP,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Qualified,0.0,2024-07-24,,,500+,29
+NP-1371,NovaPay,USA,USD,SEO Content Drive,Organic Search,9000,NovaPay Basic,Lead,0.0,2024-03-11,,,1-10,28
+NP-1372,NovaPay,Germany,EUR,SEO Content Drive,Organic Search,9000,NovaPay Basic,Lead,0.0,2024-05-01,,,51-200,70
+NP-1373,NovaPay,Germany,EUR,Q1 Launch Blitz,Paid Social,18000,NovaPay Pro,Lead,0.0,2024-02-17,,,1-10,24
+NP-1374,NovaPay,Singapore,SGD,Q1 Launch Blitz,Paid Social,18000,NovaPay Pro,Demo,0.0,2024-01-31,,,11-50,76
+NP-1375,NovaPay,India,INR,Spring Email Push,Email,6000,NovaPay Basic,Qualified,0.0,2024-04-14,True,False,11-50,33
+NP-1376,NovaPay,UAE,AED,Influencer Summer,Influencer,22000,NovaPay Basic,Demo,0.0,2024-06-26,,,201-500,85
+NP-1377,NovaPay,Germany,EUR,Partner Referral Q2,Referral,12000,NovaPay Pro,Lead,0.0,2024-04-13,,,500+,23
+NP-1378,NovaPay,UK,GBP,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Qualified,0.0,2024-06-12,,,201-500,77
+NP-1379,NovaPay,Germany,EUR,Influencer Summer,Influencer,22000,NovaPay Basic,Lead,0.0,2024-06-15,,,51-200,55
+NP-1380,NovaPay,India,INR,Partner Referral Q2,Referral,12000,NovaPay Pro,Demo,0.0,2024-05-13,,,500+,85
+NP-1381,NovaPay,UAE,AED,Q1 Launch Blitz,Paid Social,18000,NovaPay Basic,Lead,0.0,2024-01-24,,,11-50,57
+NP-1382,NovaPay,UK,GBP,Influencer Summer,Influencer,22000,NovaPay Basic,Qualified,0.0,2024-08-13,,,201-500,64
+NP-1383,NovaPay,India,INR,Spring Email Push,Email,6000,NovaPay Pro,Negotiation,0.0,2024-03-08,False,False,201-500,46
+NP-1384,NovaPay,UK,GBP,Spring Email Push,Email,6000,NovaPay Pro,Qualified,0.0,2024-03-31,False,False,201-500,27
+NP-1385,NovaPay,Singapore,SGD,Spring Email Push,Email,6000,NovaPay Enterprise,Qualified,0.0,2024-04-18,True,False,201-500,72
+NP-1386,NovaPay,UK,GBP,Spring Email Push,Email,6000,NovaPay Basic,Demo,0.0,2024-03-23,True,True,51-200,31
+NP-1387,NovaPay,India,INR,Partner Referral Q2,Referral,12000,NovaPay Pro,Qualified,0.0,2024-06-09,,,1-10,83
+NP-1388,NovaPay,Germany,EUR,Q1 Launch Blitz,Paid Social,18000,NovaPay Pro,Closed Lost,0.0,2024-03-19,,,1-10,66
+NP-1389,NovaPay,UK,GBP,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Demo,0.0,2024-06-10,,,51-200,14
+NP-1390,NovaPay,Germany,EUR,Partner Referral Q2,Referral,12000,NovaPay Enterprise,Lead,0.0,2024-04-20,,,11-50,36
+NP-1391,NovaPay,India,INR,Influencer Summer,Influencer,22000,NovaPay Basic,Demo,0.0,2024-07-25,,,11-50,88
+NP-1392,NovaPay,UAE,AED,Spring Email Push,Email,6000,NovaPay Pro,Proposal,0.0,2024-04-27,True,False,500+,31
+NP-1393,NovaPay,USA,USD,SEO Content Drive,Organic Search,9000,NovaPay Basic,Qualified,0.0,2024-05-05,,,1-10,27
+NP-1394,NovaPay,USA,USD,Partner Referral Q2,Referral,12000,NovaPay Enterprise,Proposal,0.0,2024-04-21,,,11-50,41
+NP-1395,NovaPay,UAE,AED,Spring Email Push,Email,6000,NovaPay Pro,Demo,0.0,2024-04-05,False,False,500+,90
+NP-1396,NovaPay,India,INR,SEO Content Drive,Organic Search,9000,NovaPay Basic,Lead,0.0,2024-03-12,,,201-500,75
+NP-1397,NovaPay,Germany,EUR,Influencer Summer,Influencer,22000,NovaPay Enterprise,Lead,0.0,2024-08-02,,,51-200,84
+NP-1398,NovaPay,Singapore,SGD,Q1 Launch Blitz,Paid Social,18000,NovaPay Pro,Lead,0.0,2024-03-08,,,51-200,18
+NP-1399,NovaPay,Germany,EUR,Fintech Webinar Series,Webinar,7500,NovaPay Enterprise,Proposal,0.0,2024-07-12,,,51-200,51
+NP-1400,NovaPay,Germany,EUR,SEO Content Drive,Organic Search,9000,NovaPay Pro,Qualified,0.0,2024-05-02,,,51-200,97
+NP-1401,NovaPay,UK,GBP,Q1 Launch Blitz,Paid Social,18000,NovaPay Pro,Proposal,0.0,2024-01-12,,,1-10,30
+NP-1402,NovaPay,India,INR,Partner Referral Q2,Referral,12000,NovaPay Enterprise,Qualified,0.0,2024-04-21,,,51-200,30
+NP-1403,NovaPay,UK,GBP,SEO Content Drive,Organic Search,9000,NovaPay Basic,Lead,0.0,2024-03-22,,,1-10,60
+NP-1404,NovaPay,Germany,EUR,Influencer Summer,Influencer,22000,NovaPay Pro,Lead,0.0,2024-06-12,,,1-10,10
+NP-1405,NovaPay,India,INR,Spring Email Push,Email,6000,NovaPay Basic,Lead,0.0,2024-04-11,True,False,1-10,64
+NP-1406,NovaPay,UK,GBP,Influencer Summer,Influencer,22000,NovaPay Basic,Lead,0.0,2024-06-14,,,1-10,50
+NP-1407,NovaPay,Singapore,SGD,SEO Content Drive,Organic Search,9000,NovaPay Basic,Demo,0.0,2024-03-18,,,11-50,18
+NP-1408,NovaPay,India,INR,Fintech Webinar Series,Webinar,7500,NovaPay Pro,Lead,0.0,2024-06-23,,,11-50,90
+NP-1409,NovaPay,UK,GBP,Influencer Summer,Influencer,22000,NovaPay Basic,Demo,0.0,2024-06-28,,,1-10,22
+NP-1410,NovaPay,UAE,AED,Spring Email Push,Email,6000,NovaPay Pro,Lead,0.0,2024-04-09,True,True,51-200,92
+NP-1411,NovaPay,UK,GBP,Q1 Launch Blitz,Paid Social,18000,NovaPay Pro,Demo,0.0,2024-02-15,,,1-10,94
+NP-1412,NovaPay,UK,GBP,SEO Content Drive,Organic Search,9000,NovaPay Pro,Lead,0.0,2024-04-20,,,51-200,92
+NP-1413,NovaPay,UAE,AED,Q1 Launch Blitz,Paid Social,18000,NovaPay Pro,Lead,0.0,2024-02-28,,,1-10,40
+NP-1414,NovaPay,India,INR,Partner Referral Q2,Referral,12000,NovaPay Basic,Negotiation,0.0,2024-04-06,,,51-200,50
+NP-1415,NovaPay,Germany,EUR,Spring Email Push,Email,6000,NovaPay Pro,Qualified,0.0,2024-04-24,False,False,201-500,19
+NP-1416,NovaPay,India,INR,Q1 Launch Blitz,Paid Social,18000,NovaPay Basic,Lead,0.0,2024-01-17,,,201-500,74
+NP-1417,NovaPay,India,INR,SEO Content Drive,Organic Search,9000,NovaPay Pro,Qualified,0.0,2024-04-21,,,1-10,91
+NP-1418,NovaPay,India,INR,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Lead,0.0,2024-05-20,,,500+,36
+NP-1419,NovaPay,India,INR,Spring Email Push,Email,6000,NovaPay Basic,Qualified,0.0,2024-02-23,True,False,11-50,17
+NP-1420,NovaPay,UK,GBP,Spring Email Push,Email,6000,NovaPay Basic,Qualified,0.0,2024-02-22,True,False,11-50,25
+NP-1421,NovaPay,UAE,AED,Q1 Launch Blitz,Paid Social,18000,NovaPay Pro,Lead,0.0,2024-02-23,,,500+,76
+NP-1422,NovaPay,Germany,EUR,Influencer Summer,Influencer,22000,NovaPay Basic,Demo,0.0,2024-07-05,,,1-10,13
+NP-1423,NovaPay,Singapore,SGD,SEO Content Drive,Organic Search,9000,NovaPay Basic,Lead,0.0,2024-05-13,,,1-10,73
+NP-1424,NovaPay,India,INR,Partner Referral Q2,Referral,12000,NovaPay Basic,Proposal,0.0,2024-04-26,,,51-200,30
+NP-1425,NovaPay,UAE,AED,SEO Content Drive,Organic Search,9000,NovaPay Enterprise,Demo,0.0,2024-03-15,,,11-50,75
+NP-1426,NovaPay,UK,GBP,Q1 Launch Blitz,Paid Social,18000,NovaPay Enterprise,Lead,0.0,2024-03-10,,,51-200,59
+NP-1427,NovaPay,UK,GBP,Spring Email Push,Email,6000,NovaPay Enterprise,Lead,0.0,2024-04-08,True,True,51-200,44
+NP-1428,NovaPay,India,INR,Q1 Launch Blitz,Paid Social,18000,NovaPay Basic,Demo,0.0,2024-01-16,,,11-50,38
+NP-1429,NovaPay,USA,USD,Fintech Webinar Series,Webinar,7500,NovaPay Enterprise,Lead,0.0,2024-07-08,,,51-200,49
+NP-1430,NovaPay,UK,GBP,SEO Content Drive,Organic Search,9000,NovaPay Basic,Lead,0.0,2024-04-07,,,500+,48
+NP-1431,NovaPay,India,INR,Influencer Summer,Influencer,22000,NovaPay Basic,Qualified,0.0,2024-08-03,,,11-50,79
+NP-1432,NovaPay,UK,GBP,Spring Email Push,Email,6000,NovaPay Enterprise,Lead,0.0,2024-04-24,True,False,1-10,52
+NP-1433,NovaPay,UAE,AED,Q1 Launch Blitz,Paid Social,18000,NovaPay Basic,Demo,0.0,2024-02-18,,,1-10,36
+NP-1434,NovaPay,USA,USD,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Closed Won,349.9,2024-05-28,,,1-10,15
+NP-1435,NovaPay,Singapore,SGD,Spring Email Push,Email,6000,NovaPay Pro,Demo,0.0,2024-04-02,False,False,1-10,84
+NP-1436,NovaPay,India,INR,Q1 Launch Blitz,Paid Social,18000,NovaPay Pro,Lead,0.0,2024-03-25,,,500+,17
+NP-1437,NovaPay,UAE,AED,Partner Referral Q2,Referral,12000,NovaPay Basic,Lead,0.0,2024-05-15,,,201-500,99
+NP-1438,NovaPay,Germany,EUR,Influencer Summer,Influencer,22000,NovaPay Basic,Lead,0.0,2024-06-26,,,11-50,84
+NP-1439,NovaPay,UK,GBP,Q1 Launch Blitz,Paid Social,18000,NovaPay Basic,Qualified,0.0,2024-03-02,,,1-10,78
+NP-1440,NovaPay,USA,USD,SEO Content Drive,Organic Search,9000,NovaPay Basic,Lead,0.0,2024-04-03,,,1-10,21
+NP-1441,NovaPay,Singapore,SGD,Spring Email Push,Email,6000,NovaPay Basic,Demo,0.0,2024-02-20,True,False,11-50,21
+NP-1442,NovaPay,UK,GBP,Influencer Summer,Influencer,22000,NovaPay Basic,Qualified,0.0,2024-07-09,,,51-200,32
+NP-1443,NovaPay,USA,USD,Q1 Launch Blitz,Paid Social,18000,NovaPay Enterprise,Qualified,0.0,2024-03-20,,,11-50,22
+NP-1444,NovaPay,UK,GBP,Partner Referral Q2,Referral,12000,NovaPay Pro,Lead,0.0,2024-04-12,,,11-50,26
+NP-1445,NovaPay,Singapore,SGD,Spring Email Push,Email,6000,NovaPay Basic,Qualified,0.0,2024-02-25,False,False,51-200,19
+NP-1446,NovaPay,USA,USD,Q1 Launch Blitz,Paid Social,18000,NovaPay Basic,Demo,0.0,2024-01-26,,,1-10,52
+NP-1447,NovaPay,UK,GBP,Q1 Launch Blitz,Paid Social,18000,NovaPay Basic,Lead,0.0,2024-03-23,,,201-500,60
+NP-1448,NovaPay,UK,GBP,Partner Referral Q2,Referral,12000,NovaPay Pro,Lead,0.0,2024-05-02,,,11-50,45
+NP-1449,NovaPay,Germany,EUR,SEO Content Drive,Organic Search,9000,NovaPay Basic,Qualified,0.0,2024-04-01,,,51-200,73
+NP-1450,NovaPay,Singapore,SGD,Partner Referral Q2,Referral,12000,NovaPay Basic,Lead,0.0,2024-05-24,,,11-50,63
+NP-1451,NovaPay,India,INR,Spring Email Push,Email,6000,NovaPay Pro,Lead,0.0,2024-04-24,False,False,201-500,55
+NP-1452,NovaPay,India,INR,Partner Referral Q2,Referral,12000,NovaPay Basic,Negotiation,0.0,2024-06-08,,,51-200,59
+NP-1453,NovaPay,UK,GBP,SEO Content Drive,Organic Search,9000,NovaPay Basic,Lead,0.0,2024-04-05,,,1-10,70
+NP-1454,NovaPay,Germany,EUR,Fintech Webinar Series,Webinar,7500,NovaPay Pro,Lead,0.0,2024-05-30,,,1-10,41
+NP-1455,NovaPay,UK,GBP,Influencer Summer,Influencer,22000,NovaPay Pro,Proposal,0.0,2024-06-08,,,11-50,83
+NP-1456,NovaPay,Germany,EUR,Partner Referral Q2,Referral,12000,NovaPay Pro,Proposal,0.0,2024-04-27,,,11-50,85
+NP-1457,NovaPay,Singapore,SGD,SEO Content Drive,Organic Search,9000,NovaPay Pro,Negotiation,0.0,2024-03-04,,,51-200,82
+NP-1458,NovaPay,UK,GBP,Fintech Webinar Series,Webinar,7500,NovaPay Enterprise,Proposal,0.0,2024-07-12,,,500+,49
+NP-1459,NovaPay,India,INR,Spring Email Push,Email,6000,NovaPay Basic,Lead,0.0,2024-03-14,True,False,51-200,88
+NP-1460,NovaPay,Singapore,SGD,Spring Email Push,Email,6000,NovaPay Basic,Lead,0.0,2024-03-27,True,True,11-50,24
+NP-1461,NovaPay,Singapore,SGD,Fintech Webinar Series,Webinar,7500,NovaPay Enterprise,Lead,0.0,2024-06-29,,,500+,22
+NP-1462,NovaPay,Germany,EUR,SEO Content Drive,Organic Search,9000,NovaPay Basic,Lead,0.0,2024-04-25,,,201-500,93
+NP-1463,NovaPay,UK,GBP,SEO Content Drive,Organic Search,9000,NovaPay Enterprise,Demo,0.0,2024-04-15,,,11-50,95
+NP-1464,NovaPay,Singapore,SGD,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Demo,0.0,2024-06-16,,,11-50,32
+NP-1465,NovaPay,UK,GBP,Influencer Summer,Influencer,22000,NovaPay Pro,Qualified,0.0,2024-08-12,,,1-10,33
+NP-1466,NovaPay,Germany,EUR,Fintech Webinar Series,Webinar,7500,NovaPay Pro,Qualified,0.0,2024-07-21,,,1-10,73
+NP-1467,NovaPay,Germany,EUR,Spring Email Push,Email,6000,NovaPay Basic,Lead,0.0,2024-03-26,True,False,1-10,95
+NP-1468,NovaPay,UAE,AED,Influencer Summer,Influencer,22000,NovaPay Basic,Lead,0.0,2024-06-27,,,11-50,98
+NP-1469,NovaPay,Germany,EUR,Q1 Launch Blitz,Paid Social,18000,NovaPay Pro,Demo,0.0,2024-01-16,,,201-500,66
+NP-1470,NovaPay,Germany,EUR,Influencer Summer,Influencer,22000,NovaPay Basic,Qualified,0.0,2024-07-19,,,51-200,79
+NP-1471,NovaPay,UK,GBP,Partner Referral Q2,Referral,12000,NovaPay Basic,Proposal,0.0,2024-05-03,,,11-50,67
+NP-1472,NovaPay,UAE,AED,Q1 Launch Blitz,Paid Social,18000,NovaPay Basic,Lead,0.0,2024-02-12,,,1-10,19
+NP-1473,NovaPay,UK,GBP,SEO Content Drive,Organic Search,9000,NovaPay Basic,Demo,0.0,2024-05-10,,,1-10,53
+NP-1474,NovaPay,USA,USD,Fintech Webinar Series,Webinar,7500,NovaPay Enterprise,Demo,0.0,2024-07-04,,,11-50,87
+NP-1475,NovaPay,UK,GBP,Partner Referral Q2,Referral,12000,NovaPay Basic,Lead,0.0,2024-04-29,,,201-500,99
+NP-1476,NovaPay,UAE,AED,Fintech Webinar Series,Webinar,7500,NovaPay Pro,Lead,0.0,2024-06-15,,,51-200,40
+NP-1477,NovaPay,UK,GBP,Q1 Launch Blitz,Paid Social,18000,NovaPay Pro,Proposal,0.0,2024-01-29,,,1-10,56
+NP-1478,NovaPay,Germany,EUR,Q1 Launch Blitz,Paid Social,18000,NovaPay Basic,Demo,0.0,2024-03-11,,,11-50,22
+NP-1479,NovaPay,UK,GBP,Q1 Launch Blitz,Paid Social,18000,NovaPay Pro,Closed Lost,0.0,2024-03-10,,,1-10,49
+NP-1480,NovaPay,India,INR,Partner Referral Q2,Referral,12000,NovaPay Enterprise,Lead,0.0,2024-06-13,,,201-500,33
+NP-1481,NovaPay,Singapore,SGD,SEO Content Drive,Organic Search,9000,NovaPay Basic,Qualified,0.0,2024-04-03,,,201-500,69
+NP-1482,NovaPay,UK,GBP,SEO Content Drive,Organic Search,9000,NovaPay Basic,Lead,0.0,2024-03-13,,,1-10,95
+NP-1483,NovaPay,Singapore,SGD,SEO Content Drive,Organic Search,9000,NovaPay Basic,Demo,0.0,2024-03-30,,,500+,17
+NP-1484,NovaPay,Singapore,SGD,Partner Referral Q2,Referral,12000,NovaPay Basic,Qualified,0.0,2024-06-04,,,500+,40
+NP-1485,NovaPay,Germany,EUR,Partner Referral Q2,Referral,12000,NovaPay Basic,Proposal,0.0,2024-04-09,,,500+,83
+NP-1486,NovaPay,Singapore,SGD,Fintech Webinar Series,Webinar,7500,NovaPay Pro,Qualified,0.0,2024-05-25,,,201-500,32
+NP-1487,NovaPay,USA,USD,Spring Email Push,Email,6000,NovaPay Pro,Lead,0.0,2024-04-09,True,False,11-50,90
+NP-1488,NovaPay,Singapore,SGD,Spring Email Push,Email,6000,NovaPay Basic,Negotiation,0.0,2024-02-23,True,False,500+,51
+NP-1489,NovaPay,India,INR,SEO Content Drive,Organic Search,9000,NovaPay Enterprise,Lead,0.0,2024-05-15,,,500+,63
+NP-1490,NovaPay,Germany,EUR,Q1 Launch Blitz,Paid Social,18000,NovaPay Basic,Qualified,0.0,2024-01-22,,,1-10,82
+NP-1491,NovaPay,UAE,AED,Q1 Launch Blitz,Paid Social,18000,NovaPay Enterprise,Negotiation,0.0,2024-03-02,,,51-200,59
+NP-1492,NovaPay,India,INR,Influencer Summer,Influencer,22000,NovaPay Pro,Lead,0.0,2024-07-06,,,201-500,28
+NP-1493,NovaPay,India,INR,Fintech Webinar Series,Webinar,7500,NovaPay Pro,Lead,0.0,2024-06-21,,,11-50,16
+NP-1494,NovaPay,India,INR,Influencer Summer,Influencer,22000,NovaPay Basic,Lead,0.0,2024-07-14,,,51-200,49
+NP-1495,NovaPay,Singapore,SGD,SEO Content Drive,Organic Search,9000,NovaPay Enterprise,Demo,0.0,2024-03-30,,,11-50,48
+NP-1496,NovaPay,Germany,EUR,Influencer Summer,Influencer,22000,NovaPay Pro,Lead,0.0,2024-07-24,,,500+,92
+NP-1497,NovaPay,UK,GBP,Q1 Launch Blitz,Paid Social,18000,NovaPay Basic,Proposal,0.0,2024-03-12,,,500+,57
+NP-1498,NovaPay,India,INR,Q1 Launch Blitz,Paid Social,18000,NovaPay Basic,Lead,0.0,2024-03-14,,,201-500,27
+NP-1499,NovaPay,Singapore,SGD,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Lead,0.0,2024-06-04,,,1-10,41
+NP-1500,NovaPay,India,INR,Q1 Launch Blitz,Paid Social,18000,NovaPay Enterprise,Demo,0.0,2024-02-14,,,51-200,69
+NP-1501,NovaPay,Germany,EUR,Fintech Webinar Series,Webinar,7500,NovaPay Enterprise,Demo,0.0,2024-06-09,,,51-200,72
+NP-1502,NovaPay,Germany,EUR,Fintech Webinar Series,Webinar,7500,NovaPay Enterprise,Qualified,0.0,2024-07-19,,,51-200,54
+NP-1503,NovaPay,Singapore,SGD,Spring Email Push,Email,6000,NovaPay Basic,Proposal,0.0,2024-02-26,True,False,11-50,83
+NP-1504,NovaPay,Singapore,SGD,Spring Email Push,Email,6000,NovaPay Pro,Demo,0.0,2024-03-20,False,False,500+,12
+NP-1505,NovaPay,UK,GBP,Influencer Summer,Influencer,22000,NovaPay Enterprise,Demo,0.0,2024-06-02,,,11-50,42
+NP-1506,NovaPay,Singapore,SGD,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Closed Won,311.17,2024-06-14,,,201-500,54
+NP-1507,NovaPay,Germany,EUR,Partner Referral Q2,Referral,12000,NovaPay Basic,Demo,0.0,2024-05-25,,,500+,23
+NP-1508,NovaPay,India,INR,Q1 Launch Blitz,Paid Social,18000,NovaPay Pro,Proposal,0.0,2024-02-26,,,500+,92
+NP-1509,NovaPay,India,INR,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Lead,0.0,2024-05-18,,,51-200,45
+NP-1510,NovaPay,Germany,EUR,Influencer Summer,Influencer,22000,NovaPay Basic,Demo,0.0,2024-07-09,,,11-50,29
+NP-1511,NovaPay,UAE,AED,Fintech Webinar Series,Webinar,7500,NovaPay Enterprise,Proposal,0.0,2024-06-30,,,51-200,97
+NP-1512,NovaPay,UAE,AED,Spring Email Push,Email,6000,NovaPay Pro,Closed Lost,0.0,2024-03-19,False,False,201-500,59
+NP-1513,NovaPay,UK,GBP,Influencer Summer,Influencer,22000,NovaPay Pro,Qualified,0.0,2024-06-25,,,51-200,38
+NP-1514,NovaPay,India,INR,Influencer Summer,Influencer,22000,NovaPay Pro,Negotiation,0.0,2024-07-16,,,500+,48
+NP-1515,NovaPay,Singapore,SGD,Spring Email Push,Email,6000,NovaPay Enterprise,Lead,0.0,2024-02-27,False,False,51-200,81
+NP-1516,NovaPay,USA,USD,Spring Email Push,Email,6000,NovaPay Enterprise,Demo,0.0,2024-03-14,True,False,51-200,63
+NP-1517,NovaPay,Germany,EUR,SEO Content Drive,Organic Search,9000,NovaPay Pro,Qualified,0.0,2024-03-16,,,201-500,16
+NP-1518,NovaPay,India,INR,Influencer Summer,Influencer,22000,NovaPay Enterprise,Lead,0.0,2024-06-25,,,500+,25
+NP-1519,NovaPay,Germany,EUR,Influencer Summer,Influencer,22000,NovaPay Basic,Lead,0.0,2024-06-20,,,11-50,35
+NP-1520,NovaPay,Germany,EUR,SEO Content Drive,Organic Search,9000,NovaPay Pro,Negotiation,0.0,2024-04-28,,,11-50,50
+NP-1521,NovaPay,UK,GBP,Influencer Summer,Influencer,22000,NovaPay Basic,Lead,0.0,2024-06-23,,,51-200,91
+NP-1522,NovaPay,UK,GBP,Q1 Launch Blitz,Paid Social,18000,NovaPay Basic,Demo,0.0,2024-01-31,,,500+,30
+NP-1523,NovaPay,UAE,AED,Partner Referral Q2,Referral,12000,NovaPay Pro,Lead,0.0,2024-05-30,,,201-500,61
+NP-1524,NovaPay,USA,USD,Partner Referral Q2,Referral,12000,NovaPay Basic,Lead,0.0,2024-04-30,,,51-200,11
+NP-1525,NovaPay,UAE,AED,SEO Content Drive,Organic Search,9000,NovaPay Pro,Lead,0.0,2024-03-01,,,11-50,38
+NP-1526,NovaPay,Singapore,SGD,Influencer Summer,Influencer,22000,NovaPay Basic,Lead,0.0,2024-08-04,,,500+,49
+NP-1527,NovaPay,UK,GBP,Spring Email Push,Email,6000,NovaPay Basic,Closed Won,352.08,2024-04-13,False,False,51-200,65
+NP-1528,NovaPay,USA,USD,Influencer Summer,Influencer,22000,NovaPay Basic,Negotiation,0.0,2024-07-16,,,11-50,31
+NP-1529,NovaPay,UK,GBP,Partner Referral Q2,Referral,12000,NovaPay Basic,Closed Lost,0.0,2024-05-02,,,1-10,85
+NP-1530,NovaPay,UK,GBP,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Demo,0.0,2024-05-14,,,201-500,91
+NP-1531,NovaPay,UAE,AED,SEO Content Drive,Organic Search,9000,NovaPay Pro,Qualified,0.0,2024-03-07,,,1-10,93
+NP-1532,NovaPay,UK,GBP,Q1 Launch Blitz,Paid Social,18000,NovaPay Basic,Qualified,0.0,2024-01-25,,,500+,42
+NP-1533,NovaPay,UAE,AED,Partner Referral Q2,Referral,12000,NovaPay Basic,Demo,0.0,2024-04-06,,,51-200,63
+NP-1534,NovaPay,UK,GBP,Influencer Summer,Influencer,22000,NovaPay Pro,Qualified,0.0,2024-06-18,,,201-500,23
+NP-1535,NovaPay,UAE,AED,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Lead,0.0,2024-05-23,,,201-500,35
+NP-1536,NovaPay,UK,GBP,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Qualified,0.0,2024-06-04,,,51-200,62
+NP-1537,NovaPay,UK,GBP,SEO Content Drive,Organic Search,9000,NovaPay Pro,Negotiation,0.0,2024-05-01,,,51-200,40
+NP-1538,NovaPay,UK,GBP,Q1 Launch Blitz,Paid Social,18000,NovaPay Basic,Lead,0.0,2024-03-23,,,201-500,29
+NP-1539,NovaPay,UAE,AED,Q1 Launch Blitz,Paid Social,18000,NovaPay Basic,Demo,0.0,2024-02-11,,,11-50,68
+NP-1540,NovaPay,Germany,EUR,SEO Content Drive,Organic Search,9000,NovaPay Basic,Proposal,0.0,2024-03-06,,,51-200,56
+NP-1541,NovaPay,Germany,EUR,Influencer Summer,Influencer,22000,NovaPay Pro,Lead,0.0,2024-06-06,,,1-10,27
+NP-1542,NovaPay,India,INR,Influencer Summer,Influencer,22000,NovaPay Basic,Negotiation,0.0,2024-07-05,,,1-10,57
+NP-1543,NovaPay,UK,GBP,SEO Content Drive,Organic Search,9000,NovaPay Basic,Closed Won,366.59,2024-04-04,,,201-500,63
+NP-1544,NovaPay,Singapore,SGD,Influencer Summer,Influencer,22000,NovaPay Basic,Lead,0.0,2024-06-08,,,11-50,23
+NP-1545,NovaPay,USA,USD,Partner Referral Q2,Referral,12000,NovaPay Basic,Qualified,0.0,2024-05-31,,,11-50,88
+NP-1546,NovaPay,UAE,AED,Partner Referral Q2,Referral,12000,NovaPay Pro,Proposal,0.0,2024-04-21,,,201-500,72
+NP-1547,NovaPay,Singapore,SGD,Q1 Launch Blitz,Paid Social,18000,NovaPay Basic,Lead,0.0,2024-02-19,,,1-10,96
+NP-1548,NovaPay,UAE,AED,Fintech Webinar Series,Webinar,7500,NovaPay Pro,Qualified,0.0,2024-06-22,,,500+,76
+NP-1549,NovaPay,UAE,AED,Influencer Summer,Influencer,22000,NovaPay Basic,Demo,0.0,2024-07-02,,,201-500,54
+NP-1550,NovaPay,UAE,AED,Influencer Summer,Influencer,22000,NovaPay Basic,Proposal,0.0,2024-08-11,,,500+,16
+NP-1551,NovaPay,India,INR,Q1 Launch Blitz,Paid Social,18000,NovaPay Basic,Proposal,0.0,2024-03-13,,,11-50,19
+NP-1552,NovaPay,Germany,EUR,Partner Referral Q2,Referral,12000,NovaPay Basic,Lead,0.0,2024-06-08,,,11-50,80
+NP-1553,NovaPay,Germany,EUR,Influencer Summer,Influencer,22000,NovaPay Pro,Lead,0.0,2024-07-27,,,500+,67
+NP-1554,NovaPay,Singapore,SGD,Q1 Launch Blitz,Paid Social,18000,NovaPay Basic,Lead,0.0,2024-03-13,,,1-10,23
+NP-1555,NovaPay,Germany,EUR,Partner Referral Q2,Referral,12000,NovaPay Pro,Lead,0.0,2024-04-16,,,500+,89
+NP-1556,NovaPay,Germany,EUR,Influencer Summer,Influencer,22000,NovaPay Pro,Lead,0.0,2024-07-29,,,51-200,56
+NP-1557,NovaPay,Singapore,SGD,Q1 Launch Blitz,Paid Social,18000,NovaPay Pro,Lead,0.0,2024-03-10,,,51-200,67
+NP-1558,NovaPay,UK,GBP,Q1 Launch Blitz,Paid Social,18000,NovaPay Pro,Lead,0.0,2024-02-24,,,51-200,80
+NP-1559,NovaPay,Germany,EUR,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Negotiation,0.0,2024-07-12,,,11-50,62
+NP-1560,NovaPay,Germany,EUR,Q1 Launch Blitz,Paid Social,18000,NovaPay Basic,Lead,0.0,2024-02-29,,,11-50,68
+NP-1561,NovaPay,UAE,AED,Spring Email Push,Email,6000,NovaPay Basic,Qualified,0.0,2024-04-30,True,False,201-500,94
+NP-1562,NovaPay,USA,USD,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Qualified,0.0,2024-07-16,,,1-10,80
+NP-1563,NovaPay,Singapore,SGD,Partner Referral Q2,Referral,12000,NovaPay Basic,Qualified,0.0,2024-04-27,,,500+,32
+NP-1564,NovaPay,Singapore,SGD,Influencer Summer,Influencer,22000,NovaPay Basic,Demo,0.0,2024-07-12,,,500+,59
+NP-1565,NovaPay,USA,USD,Partner Referral Q2,Referral,12000,NovaPay Enterprise,Demo,0.0,2024-05-10,,,201-500,53
+NP-1566,NovaPay,India,INR,SEO Content Drive,Organic Search,9000,NovaPay Basic,Qualified,0.0,2024-05-05,,,51-200,99
+NP-1567,NovaPay,Singapore,SGD,Fintech Webinar Series,Webinar,7500,NovaPay Pro,Negotiation,0.0,2024-06-06,,,11-50,36
+NP-1568,NovaPay,UAE,AED,Fintech Webinar Series,Webinar,7500,NovaPay Pro,Negotiation,0.0,2024-05-26,,,11-50,74
+NP-1569,NovaPay,UAE,AED,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Lead,0.0,2024-06-24,,,500+,71
+NP-1570,NovaPay,India,INR,Fintech Webinar Series,Webinar,7500,NovaPay Pro,Qualified,0.0,2024-07-17,,,51-200,64
+NP-1571,NovaPay,India,INR,Q1 Launch Blitz,Paid Social,18000,NovaPay Basic,Lead,0.0,2024-01-17,,,11-50,44
+NP-1572,NovaPay,USA,USD,Spring Email Push,Email,6000,NovaPay Pro,Lead,0.0,2024-02-22,False,False,51-200,36
+NP-1573,NovaPay,UK,GBP,Fintech Webinar Series,Webinar,7500,NovaPay Pro,Lead,0.0,2024-07-20,,,11-50,92
+NP-1574,NovaPay,Germany,EUR,Fintech Webinar Series,Webinar,7500,NovaPay Pro,Proposal,0.0,2024-06-15,,,1-10,58
+NP-1575,NovaPay,Germany,EUR,Partner Referral Q2,Referral,12000,NovaPay Pro,Demo,0.0,2024-06-14,,,1-10,11
+NP-1576,NovaPay,Germany,EUR,Influencer Summer,Influencer,22000,NovaPay Pro,Demo,0.0,2024-07-27,,,11-50,91
+NP-1577,NovaPay,UAE,AED,Influencer Summer,Influencer,22000,NovaPay Basic,Qualified,0.0,2024-06-26,,,11-50,47
+NP-1578,NovaPay,UK,GBP,Partner Referral Q2,Referral,12000,NovaPay Pro,Lead,0.0,2024-04-27,,,500+,25
+NP-1579,NovaPay,UK,GBP,Partner Referral Q2,Referral,12000,NovaPay Basic,Lead,0.0,2024-04-25,,,500+,42
+NP-1580,NovaPay,Germany,EUR,Q1 Launch Blitz,Paid Social,18000,NovaPay Pro,Lead,0.0,2024-01-29,,,51-200,86
+NP-1581,NovaPay,UAE,AED,Q1 Launch Blitz,Paid Social,18000,NovaPay Pro,Proposal,0.0,2024-02-17,,,201-500,83
+NP-1582,NovaPay,Germany,EUR,Fintech Webinar Series,Webinar,7500,NovaPay Pro,Lead,0.0,2024-06-07,,,11-50,76
+NP-1583,NovaPay,UAE,AED,Q1 Launch Blitz,Paid Social,18000,NovaPay Basic,Qualified,0.0,2024-03-01,,,1-10,54
+NP-1584,NovaPay,Singapore,SGD,Spring Email Push,Email,6000,NovaPay Pro,Lead,0.0,2024-03-23,True,False,500+,70
+NP-1585,NovaPay,Singapore,SGD,Fintech Webinar Series,Webinar,7500,NovaPay Enterprise,Lead,0.0,2024-06-23,,,201-500,40
+NP-1586,NovaPay,India,INR,Influencer Summer,Influencer,22000,NovaPay Pro,Closed Won,918.43,2024-07-12,,,1-10,59
+NP-1587,NovaPay,India,INR,SEO Content Drive,Organic Search,9000,NovaPay Basic,Negotiation,0.0,2024-04-17,,,500+,75
+NP-1588,NovaPay,India,INR,Partner Referral Q2,Referral,12000,NovaPay Basic,Demo,0.0,2024-05-16,,,500+,20
+NP-1589,NovaPay,UK,GBP,Q1 Launch Blitz,Paid Social,18000,NovaPay Enterprise,Qualified,0.0,2024-01-10,,,1-10,36
+NP-1590,NovaPay,India,INR,Influencer Summer,Influencer,22000,NovaPay Basic,Demo,0.0,2024-06-14,,,11-50,78
+NP-1591,NovaPay,Singapore,SGD,Influencer Summer,Influencer,22000,NovaPay Pro,Qualified,0.0,2024-06-10,,,11-50,13
+NP-1592,NovaPay,UAE,AED,Partner Referral Q2,Referral,12000,NovaPay Basic,Lead,0.0,2024-04-27,,,51-200,81
+NP-1593,NovaPay,India,INR,Q1 Launch Blitz,Paid Social,18000,NovaPay Basic,Lead,0.0,2024-02-28,,,201-500,90
+NP-1594,NovaPay,Germany,EUR,Partner Referral Q2,Referral,12000,NovaPay Basic,Demo,0.0,2024-06-12,,,1-10,92
+NP-1595,NovaPay,India,INR,Influencer Summer,Influencer,22000,NovaPay Pro,Qualified,0.0,2024-06-10,,,51-200,74
+NP-1596,NovaPay,Germany,EUR,Q1 Launch Blitz,Paid Social,18000,NovaPay Pro,Qualified,0.0,2024-02-15,,,201-500,58
+NP-1597,NovaPay,Singapore,SGD,Partner Referral Q2,Referral,12000,NovaPay Basic,Lead,0.0,2024-05-03,,,11-50,60
+NP-1598,NovaPay,Germany,EUR,Fintech Webinar Series,Webinar,7500,NovaPay Pro,Lead,0.0,2024-06-26,,,1-10,80
+NP-1599,NovaPay,UK,GBP,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Qualified,0.0,2024-06-29,,,500+,80
+NP-1600,NovaPay,Germany,EUR,Q1 Launch Blitz,Paid Social,18000,NovaPay Pro,Negotiation,0.0,2024-02-23,,,11-50,62
+NP-1601,NovaPay,Singapore,SGD,Influencer Summer,Influencer,22000,NovaPay Basic,Lead,0.0,2024-07-03,,,11-50,24
+NP-1602,NovaPay,UAE,AED,Spring Email Push,Email,6000,NovaPay Pro,Lead,0.0,2024-04-25,False,False,500+,19
+NP-1603,NovaPay,UAE,AED,SEO Content Drive,Organic Search,9000,NovaPay Basic,Lead,0.0,2024-05-14,,,201-500,52
+NP-1604,NovaPay,UK,GBP,SEO Content Drive,Organic Search,9000,NovaPay Pro,Lead,0.0,2024-03-09,,,11-50,50
+NP-1605,NovaPay,India,INR,Partner Referral Q2,Referral,12000,NovaPay Pro,Lead,0.0,2024-06-18,,,11-50,82
+NP-1606,NovaPay,Germany,EUR,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Qualified,0.0,2024-05-10,,,51-200,41
+NP-1607,NovaPay,UAE,AED,Spring Email Push,Email,6000,NovaPay Pro,Lead,0.0,2024-04-01,True,False,201-500,69
+NP-1608,NovaPay,Germany,EUR,Partner Referral Q2,Referral,12000,NovaPay Basic,Qualified,0.0,2024-04-27,,,500+,20
+NP-1609,NovaPay,Singapore,SGD,SEO Content Drive,Organic Search,9000,NovaPay Basic,Qualified,0.0,2024-04-03,,,1-10,19
+NP-1610,NovaPay,Singapore,SGD,Q1 Launch Blitz,Paid Social,18000,NovaPay Pro,Proposal,0.0,2024-03-24,,,201-500,85
+NP-1611,NovaPay,USA,USD,Spring Email Push,Email,6000,NovaPay Pro,Qualified,0.0,2024-04-24,False,False,11-50,56
+NP-1612,NovaPay,UK,GBP,Partner Referral Q2,Referral,12000,NovaPay Pro,Demo,0.0,2024-05-12,,,11-50,69
+NP-1613,NovaPay,India,INR,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Qualified,0.0,2024-06-09,,,500+,97
+NP-1614,NovaPay,UAE,AED,Spring Email Push,Email,6000,NovaPay Basic,Lead,0.0,2024-04-27,False,False,11-50,71
+NP-1615,NovaPay,UK,GBP,SEO Content Drive,Organic Search,9000,NovaPay Pro,Lead,0.0,2024-04-03,,,51-200,39
+NP-1616,NovaPay,UAE,AED,Q1 Launch Blitz,Paid Social,18000,NovaPay Pro,Proposal,0.0,2024-02-28,,,201-500,68
+NP-1617,NovaPay,UK,GBP,Q1 Launch Blitz,Paid Social,18000,NovaPay Pro,Lead,0.0,2024-03-16,,,51-200,43
+NP-1618,NovaPay,India,INR,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Demo,0.0,2024-06-25,,,500+,93
+NP-1619,NovaPay,India,INR,Q1 Launch Blitz,Paid Social,18000,NovaPay Basic,Negotiation,0.0,2024-03-16,,,201-500,55
+NP-1620,NovaPay,India,INR,SEO Content Drive,Organic Search,9000,NovaPay Basic,Qualified,0.0,2024-05-04,,,11-50,66
+NP-1621,NovaPay,UK,GBP,Spring Email Push,Email,6000,NovaPay Pro,Lead,0.0,2024-03-05,True,False,1-10,94
+NP-1622,NovaPay,Germany,EUR,Spring Email Push,Email,6000,NovaPay Basic,Lead,0.0,2024-04-16,False,False,500+,30
+NP-1623,NovaPay,Singapore,SGD,Influencer Summer,Influencer,22000,NovaPay Basic,Lead,0.0,2024-08-13,,,500+,30
+NP-1624,NovaPay,India,INR,Spring Email Push,Email,6000,NovaPay Basic,Qualified,0.0,2024-02-22,True,False,500+,61
+NP-1625,NovaPay,USA,USD,Fintech Webinar Series,Webinar,7500,NovaPay Pro,Negotiation,0.0,2024-06-15,,,1-10,37
+NP-1626,NovaPay,India,INR,Partner Referral Q2,Referral,12000,NovaPay Basic,Qualified,0.0,2024-05-03,,,201-500,86
+NP-1627,NovaPay,UAE,AED,Spring Email Push,Email,6000,NovaPay Pro,Lead,0.0,2024-04-20,True,False,51-200,68
+NP-1628,NovaPay,India,INR,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Lead,0.0,2024-05-23,,,1-10,35
+NP-1629,NovaPay,Singapore,SGD,Fintech Webinar Series,Webinar,7500,NovaPay Pro,Qualified,0.0,2024-05-29,,,500+,22
+NP-1630,NovaPay,India,INR,Spring Email Push,Email,6000,NovaPay Pro,Lead,0.0,2024-04-23,False,False,1-10,21
+NP-1631,NovaPay,UAE,AED,Partner Referral Q2,Referral,12000,NovaPay Enterprise,Qualified,0.0,2024-04-05,,,201-500,76
+NP-1632,NovaPay,Germany,EUR,Partner Referral Q2,Referral,12000,NovaPay Basic,Qualified,0.0,2024-05-04,,,201-500,58
+NP-1633,NovaPay,India,INR,SEO Content Drive,Organic Search,9000,NovaPay Pro,Demo,0.0,2024-05-13,,,1-10,64
+NP-1634,NovaPay,Germany,EUR,Spring Email Push,Email,6000,NovaPay Pro,Negotiation,0.0,2024-02-25,True,False,201-500,42
+NP-1635,NovaPay,UK,GBP,Spring Email Push,Email,6000,NovaPay Pro,Lead,0.0,2024-04-21,True,True,11-50,98
+NP-1636,NovaPay,Germany,EUR,SEO Content Drive,Organic Search,9000,NovaPay Basic,Qualified,0.0,2024-05-14,,,51-200,43
+NP-1637,NovaPay,Germany,EUR,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Lead,0.0,2024-06-29,,,11-50,62
+NP-1638,NovaPay,UAE,AED,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Lead,0.0,2024-07-20,,,201-500,42
+NP-1639,NovaPay,India,INR,SEO Content Drive,Organic Search,9000,NovaPay Pro,Lead,0.0,2024-03-18,,,1-10,39
+NP-1640,NovaPay,UAE,AED,Partner Referral Q2,Referral,12000,NovaPay Enterprise,Lead,0.0,2024-06-09,,,201-500,53
+NP-1641,NovaPay,India,INR,Fintech Webinar Series,Webinar,7500,NovaPay Pro,Lead,0.0,2024-06-28,,,1-10,21
+NP-1642,NovaPay,India,INR,Spring Email Push,Email,6000,NovaPay Pro,Lead,0.0,2024-03-19,True,True,1-10,59
+NP-1643,NovaPay,India,INR,Partner Referral Q2,Referral,12000,NovaPay Pro,Demo,0.0,2024-04-12,,,11-50,91
+NP-1644,NovaPay,Germany,EUR,Partner Referral Q2,Referral,12000,NovaPay Basic,Demo,0.0,2024-06-10,,,51-200,34
+NP-1645,NovaPay,UAE,AED,Q1 Launch Blitz,Paid Social,18000,NovaPay Pro,Demo,0.0,2024-01-31,,,1-10,56
+NP-1646,NovaPay,UAE,AED,Spring Email Push,Email,6000,NovaPay Enterprise,Lead,0.0,2024-03-21,False,False,51-200,95
+NP-1647,NovaPay,Germany,EUR,Partner Referral Q2,Referral,12000,NovaPay Basic,Lead,0.0,2024-04-13,,,1-10,80
+NP-1648,NovaPay,UAE,AED,SEO Content Drive,Organic Search,9000,NovaPay Pro,Qualified,0.0,2024-04-14,,,51-200,38
+NP-1649,NovaPay,USA,USD,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Lead,0.0,2024-05-10,,,51-200,32
+NP-1650,NovaPay,India,INR,Partner Referral Q2,Referral,12000,NovaPay Pro,Qualified,0.0,2024-05-18,,,1-10,75
+NP-1651,NovaPay,Singapore,SGD,SEO Content Drive,Organic Search,9000,NovaPay Pro,Qualified,0.0,2024-04-26,,,201-500,82
+NP-1652,NovaPay,UAE,AED,Partner Referral Q2,Referral,12000,NovaPay Pro,Closed Won,1039.89,2024-06-02,,,500+,13
+NP-1653,NovaPay,UK,GBP,Partner Referral Q2,Referral,12000,NovaPay Basic,Qualified,0.0,2024-05-03,,,11-50,50
+NP-1654,NovaPay,USA,USD,Partner Referral Q2,Referral,12000,NovaPay Pro,Lead,0.0,2024-05-08,,,11-50,46
+NP-1655,NovaPay,Germany,EUR,Q1 Launch Blitz,Paid Social,18000,NovaPay Pro,Lead,0.0,2024-03-20,,,11-50,70
+NP-1656,NovaPay,Germany,EUR,SEO Content Drive,Organic Search,9000,NovaPay Enterprise,Lead,0.0,2024-03-25,,,201-500,35
+NP-1657,NovaPay,UAE,AED,Spring Email Push,Email,6000,NovaPay Enterprise,Lead,0.0,2024-03-11,False,False,500+,55
+NP-1658,NovaPay,UAE,AED,Spring Email Push,Email,6000,NovaPay Basic,Lead,0.0,2024-04-18,False,False,500+,15
+NP-1659,NovaPay,Germany,EUR,Partner Referral Q2,Referral,12000,NovaPay Basic,Negotiation,0.0,2024-06-17,,,51-200,72
+NP-1660,NovaPay,USA,USD,Spring Email Push,Email,6000,NovaPay Enterprise,Lead,0.0,2024-03-14,False,False,11-50,16
+NP-1661,NovaPay,UAE,AED,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Qualified,0.0,2024-07-13,,,51-200,60
+NP-1662,NovaPay,UAE,AED,Influencer Summer,Influencer,22000,NovaPay Basic,Lead,0.0,2024-08-06,,,201-500,50
+NP-1663,NovaPay,UK,GBP,Influencer Summer,Influencer,22000,NovaPay Pro,Lead,0.0,2024-06-13,,,51-200,56
+NP-1664,NovaPay,Singapore,SGD,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Lead,0.0,2024-06-13,,,201-500,88
+NP-1665,NovaPay,Germany,EUR,SEO Content Drive,Organic Search,9000,NovaPay Basic,Lead,0.0,2024-04-17,,,51-200,61
+NP-1666,NovaPay,India,INR,SEO Content Drive,Organic Search,9000,NovaPay Pro,Closed Lost,0.0,2024-03-30,,,1-10,44
+NP-1667,NovaPay,India,INR,Spring Email Push,Email,6000,NovaPay Enterprise,Lead,0.0,2024-03-05,False,False,1-10,32
+NP-1668,NovaPay,India,INR,Partner Referral Q2,Referral,12000,NovaPay Enterprise,Proposal,0.0,2024-06-10,,,500+,50
+NP-1669,NovaPay,Germany,EUR,Partner Referral Q2,Referral,12000,NovaPay Pro,Qualified,0.0,2024-05-25,,,1-10,98
+NP-1670,NovaPay,UK,GBP,Spring Email Push,Email,6000,NovaPay Pro,Qualified,0.0,2024-02-27,False,False,51-200,43
+NP-1671,NovaPay,Germany,EUR,SEO Content Drive,Organic Search,9000,NovaPay Pro,Proposal,0.0,2024-04-14,,,1-10,62
+NP-1672,NovaPay,Germany,EUR,Q1 Launch Blitz,Paid Social,18000,NovaPay Pro,Qualified,0.0,2024-03-23,,,500+,93
+NP-1673,NovaPay,India,INR,Influencer Summer,Influencer,22000,NovaPay Enterprise,Lead,0.0,2024-07-12,,,500+,72
+NP-1674,NovaPay,Germany,EUR,Influencer Summer,Influencer,22000,NovaPay Basic,Qualified,0.0,2024-07-30,,,11-50,31
+NP-1675,NovaPay,Singapore,SGD,Influencer Summer,Influencer,22000,NovaPay Basic,Qualified,0.0,2024-08-13,,,201-500,19
+NP-1676,NovaPay,UK,GBP,Q1 Launch Blitz,Paid Social,18000,NovaPay Basic,Lead,0.0,2024-02-16,,,51-200,87
+NP-1677,NovaPay,Germany,EUR,Influencer Summer,Influencer,22000,NovaPay Enterprise,Demo,0.0,2024-07-17,,,500+,76
+NP-1678,NovaPay,Germany,EUR,Partner Referral Q2,Referral,12000,NovaPay Basic,Lead,0.0,2024-05-05,,,51-200,99
+NP-1679,NovaPay,UK,GBP,Influencer Summer,Influencer,22000,NovaPay Basic,Lead,0.0,2024-06-09,,,201-500,80
+NP-1680,NovaPay,UK,GBP,Q1 Launch Blitz,Paid Social,18000,NovaPay Basic,Demo,0.0,2024-01-20,,,1-10,43
+NP-1681,NovaPay,UK,GBP,Fintech Webinar Series,Webinar,7500,NovaPay Pro,Negotiation,0.0,2024-06-18,,,11-50,41
+NP-1682,NovaPay,Germany,EUR,Influencer Summer,Influencer,22000,NovaPay Pro,Lead,0.0,2024-06-22,,,1-10,14
+NP-1683,NovaPay,Germany,EUR,Influencer Summer,Influencer,22000,NovaPay Enterprise,Proposal,0.0,2024-07-30,,,500+,44
+NP-1684,NovaPay,Germany,EUR,Fintech Webinar Series,Webinar,7500,NovaPay Enterprise,Demo,0.0,2024-06-01,,,500+,86
+NP-1685,NovaPay,India,INR,Partner Referral Q2,Referral,12000,NovaPay Pro,Qualified,0.0,2024-06-11,,,500+,49
+NP-1686,NovaPay,India,INR,SEO Content Drive,Organic Search,9000,NovaPay Basic,Lead,0.0,2024-04-09,,,51-200,62
+NP-1687,NovaPay,UK,GBP,SEO Content Drive,Organic Search,9000,NovaPay Basic,Qualified,0.0,2024-03-18,,,51-200,46
+NP-1688,NovaPay,India,INR,Partner Referral Q2,Referral,12000,NovaPay Pro,Qualified,0.0,2024-06-05,,,51-200,11
+NP-1689,NovaPay,UAE,AED,Partner Referral Q2,Referral,12000,NovaPay Pro,Proposal,0.0,2024-06-14,,,51-200,34
+NP-1690,NovaPay,Singapore,SGD,Partner Referral Q2,Referral,12000,NovaPay Basic,Lead,0.0,2024-05-24,,,201-500,38
+NP-1691,NovaPay,UK,GBP,SEO Content Drive,Organic Search,9000,NovaPay Pro,Qualified,0.0,2024-04-04,,,51-200,93
+NP-1692,NovaPay,India,INR,Influencer Summer,Influencer,22000,NovaPay Basic,Lead,0.0,2024-06-09,,,11-50,27
+NP-1693,NovaPay,UK,GBP,SEO Content Drive,Organic Search,9000,NovaPay Basic,Qualified,0.0,2024-05-02,,,11-50,51
+NP-1694,NovaPay,UK,GBP,Q1 Launch Blitz,Paid Social,18000,NovaPay Enterprise,Lead,0.0,2024-01-23,,,51-200,44
+NP-1695,NovaPay,UAE,AED,Spring Email Push,Email,6000,NovaPay Pro,Lead,0.0,2024-03-05,True,True,201-500,49
+NP-1696,NovaPay,USA,USD,Partner Referral Q2,Referral,12000,NovaPay Basic,Proposal,0.0,2024-05-17,,,1-10,28
+NP-1697,NovaPay,Germany,EUR,Q1 Launch Blitz,Paid Social,18000,NovaPay Basic,Qualified,0.0,2024-02-02,,,11-50,42
+NP-1698,NovaPay,Singapore,SGD,Partner Referral Q2,Referral,12000,NovaPay Basic,Demo,0.0,2024-05-06,,,201-500,66
+NP-1699,NovaPay,UAE,AED,Spring Email Push,Email,6000,NovaPay Basic,Qualified,0.0,2024-02-27,False,False,11-50,70
+NP-1700,NovaPay,UAE,AED,Partner Referral Q2,Referral,12000,NovaPay Basic,Lead,0.0,2024-04-10,,,500+,76
+NP-1701,NovaPay,Germany,EUR,Q1 Launch Blitz,Paid Social,18000,NovaPay Pro,Lead,0.0,2024-01-16,,,11-50,24
+NP-1702,NovaPay,India,INR,Spring Email Push,Email,6000,NovaPay Basic,Lead,0.0,2024-03-21,False,False,201-500,41
+NP-1703,NovaPay,USA,USD,Q1 Launch Blitz,Paid Social,18000,NovaPay Pro,Demo,0.0,2024-01-29,,,51-200,21
+NP-1704,NovaPay,UK,GBP,Spring Email Push,Email,6000,NovaPay Basic,Qualified,0.0,2024-02-22,True,False,500+,23
+NP-1705,NovaPay,India,INR,Spring Email Push,Email,6000,NovaPay Basic,Qualified,0.0,2024-03-30,False,False,201-500,34
+NP-1706,NovaPay,UAE,AED,Q1 Launch Blitz,Paid Social,18000,NovaPay Basic,Lead,0.0,2024-01-15,,,201-500,66
+NP-1707,NovaPay,Germany,EUR,Fintech Webinar Series,Webinar,7500,NovaPay Pro,Lead,0.0,2024-06-02,,,500+,54
+NP-1708,NovaPay,UAE,AED,SEO Content Drive,Organic Search,9000,NovaPay Basic,Proposal,0.0,2024-05-10,,,11-50,18
+NP-1709,NovaPay,UK,GBP,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Lead,0.0,2024-06-25,,,201-500,10
+NP-1710,NovaPay,India,INR,Influencer Summer,Influencer,22000,NovaPay Pro,Negotiation,0.0,2024-07-17,,,500+,40
+NP-1711,NovaPay,UAE,AED,SEO Content Drive,Organic Search,9000,NovaPay Pro,Qualified,0.0,2024-04-19,,,11-50,77
+NP-1712,NovaPay,India,INR,Influencer Summer,Influencer,22000,NovaPay Pro,Qualified,0.0,2024-07-12,,,201-500,92
+NP-1713,NovaPay,UK,GBP,SEO Content Drive,Organic Search,9000,NovaPay Pro,Lead,0.0,2024-03-17,,,11-50,14
+NP-1714,NovaPay,UK,GBP,Spring Email Push,Email,6000,NovaPay Basic,Lead,0.0,2024-04-04,False,False,500+,89
+NP-1715,NovaPay,India,INR,Influencer Summer,Influencer,22000,NovaPay Basic,Lead,0.0,2024-06-10,,,1-10,36
+NP-1716,NovaPay,India,INR,Influencer Summer,Influencer,22000,NovaPay Enterprise,Lead,0.0,2024-06-08,,,51-200,81
+NP-1717,NovaPay,USA,USD,Influencer Summer,Influencer,22000,NovaPay Basic,Lead,0.0,2024-06-08,,,500+,44
+NP-1718,NovaPay,UK,GBP,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Lead,0.0,2024-06-06,,,500+,22
+NP-1719,NovaPay,UAE,AED,Q1 Launch Blitz,Paid Social,18000,NovaPay Pro,Lead,0.0,2024-03-17,,,11-50,82
+NP-1720,NovaPay,USA,USD,Influencer Summer,Influencer,22000,NovaPay Pro,Qualified,0.0,2024-06-14,,,500+,55
+NP-1721,NovaPay,India,INR,Influencer Summer,Influencer,22000,NovaPay Pro,Negotiation,0.0,2024-06-22,,,11-50,80
+NP-1722,NovaPay,India,INR,Partner Referral Q2,Referral,12000,NovaPay Pro,Qualified,0.0,2024-05-31,,,51-200,50
+NP-1723,NovaPay,USA,USD,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Lead,0.0,2024-07-04,,,51-200,87
+NP-1724,NovaPay,India,INR,Spring Email Push,Email,6000,NovaPay Basic,Demo,0.0,2024-03-18,True,False,201-500,10
+NP-1725,NovaPay,UK,GBP,Influencer Summer,Influencer,22000,NovaPay Basic,Lead,0.0,2024-06-18,,,51-200,10
+NP-1726,NovaPay,USA,USD,SEO Content Drive,Organic Search,9000,NovaPay Basic,Lead,0.0,2024-04-05,,,500+,75
+NP-1727,NovaPay,India,INR,Fintech Webinar Series,Webinar,7500,NovaPay Pro,Lead,0.0,2024-07-07,,,51-200,29
+NP-1728,NovaPay,Germany,EUR,Spring Email Push,Email,6000,NovaPay Enterprise,Lead,0.0,2024-03-18,False,False,1-10,83
+NP-1729,NovaPay,India,INR,Partner Referral Q2,Referral,12000,NovaPay Basic,Lead,0.0,2024-05-16,,,201-500,32
+NP-1730,NovaPay,Singapore,SGD,Partner Referral Q2,Referral,12000,NovaPay Pro,Qualified,0.0,2024-04-17,,,500+,92
+NP-1731,NovaPay,UK,GBP,SEO Content Drive,Organic Search,9000,NovaPay Pro,Lead,0.0,2024-03-08,,,51-200,54
+NP-1732,NovaPay,Germany,EUR,Partner Referral Q2,Referral,12000,NovaPay Enterprise,Proposal,0.0,2024-05-04,,,500+,11
+NP-1733,NovaPay,UAE,AED,Influencer Summer,Influencer,22000,NovaPay Basic,Lead,0.0,2024-06-06,,,51-200,79
+NP-1734,NovaPay,UK,GBP,Fintech Webinar Series,Webinar,7500,NovaPay Pro,Lead,0.0,2024-05-16,,,201-500,67
+NP-1735,NovaPay,India,INR,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Qualified,0.0,2024-06-29,,,11-50,26
+NP-1736,NovaPay,UK,GBP,SEO Content Drive,Organic Search,9000,NovaPay Pro,Lead,0.0,2024-04-21,,,51-200,20
+NP-1737,NovaPay,India,INR,Partner Referral Q2,Referral,12000,NovaPay Pro,Lead,0.0,2024-04-22,,,201-500,81
+NP-1738,NovaPay,India,INR,Spring Email Push,Email,6000,NovaPay Pro,Lead,0.0,2024-04-22,True,True,201-500,51
+NP-1739,NovaPay,USA,USD,Influencer Summer,Influencer,22000,NovaPay Basic,Demo,0.0,2024-07-25,,,51-200,54
+NP-1740,NovaPay,Germany,EUR,Spring Email Push,Email,6000,NovaPay Pro,Lead,0.0,2024-03-25,True,False,201-500,89
+NP-1741,NovaPay,Germany,EUR,Spring Email Push,Email,6000,NovaPay Enterprise,Lead,0.0,2024-04-02,True,False,1-10,24
+NP-1742,NovaPay,UK,GBP,Influencer Summer,Influencer,22000,NovaPay Enterprise,Negotiation,0.0,2024-07-07,,,1-10,53
+NP-1743,NovaPay,Singapore,SGD,Influencer Summer,Influencer,22000,NovaPay Basic,Qualified,0.0,2024-07-13,,,11-50,78
+NP-1744,NovaPay,UK,GBP,Spring Email Push,Email,6000,NovaPay Pro,Lead,0.0,2024-04-16,False,False,11-50,98
+NP-1745,NovaPay,UAE,AED,Influencer Summer,Influencer,22000,NovaPay Basic,Negotiation,0.0,2024-08-07,,,1-10,42
+NP-1746,NovaPay,UK,GBP,Spring Email Push,Email,6000,NovaPay Basic,Demo,0.0,2024-03-20,True,False,1-10,18
+NP-1747,NovaPay,UAE,AED,Partner Referral Q2,Referral,12000,NovaPay Pro,Negotiation,0.0,2024-05-21,,,1-10,12
+NP-1748,NovaPay,Singapore,SGD,SEO Content Drive,Organic Search,9000,NovaPay Pro,Lead,0.0,2024-04-18,,,500+,22
+NP-1749,NovaPay,India,INR,SEO Content Drive,Organic Search,9000,NovaPay Pro,Lead,0.0,2024-03-26,,,500+,68
+NP-1750,NovaPay,USA,USD,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Lead,0.0,2024-07-16,,,51-200,52
+NP-1751,NovaPay,Germany,EUR,Partner Referral Q2,Referral,12000,NovaPay Basic,Lead,0.0,2024-05-20,,,51-200,90
+NP-1752,NovaPay,UK,GBP,SEO Content Drive,Organic Search,9000,NovaPay Enterprise,Qualified,0.0,2024-03-08,,,51-200,59
+NP-1753,NovaPay,USA,USD,Q1 Launch Blitz,Paid Social,18000,NovaPay Enterprise,Lead,0.0,2024-02-22,,,201-500,94
+NP-1754,NovaPay,UK,GBP,Spring Email Push,Email,6000,NovaPay Basic,Closed Won,310.3,2024-03-15,False,False,201-500,49
+NP-1755,NovaPay,Germany,EUR,Fintech Webinar Series,Webinar,7500,NovaPay Pro,Lead,0.0,2024-05-27,,,500+,79
+NP-1756,NovaPay,Singapore,SGD,Influencer Summer,Influencer,22000,NovaPay Enterprise,Lead,0.0,2024-08-07,,,11-50,65
+NP-1757,NovaPay,UAE,AED,Spring Email Push,Email,6000,NovaPay Pro,Lead,0.0,2024-02-23,False,False,1-10,33
+NP-1758,NovaPay,Singapore,SGD,SEO Content Drive,Organic Search,9000,NovaPay Basic,Lead,0.0,2024-04-10,,,201-500,62
+NP-1759,NovaPay,Germany,EUR,SEO Content Drive,Organic Search,9000,NovaPay Enterprise,Negotiation,0.0,2024-04-05,,,11-50,34
+NP-1760,NovaPay,UK,GBP,Q1 Launch Blitz,Paid Social,18000,NovaPay Basic,Closed Lost,0.0,2024-02-13,,,500+,82
+NP-1761,NovaPay,UK,GBP,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Demo,0.0,2024-06-24,,,1-10,98
+NP-1762,NovaPay,UK,GBP,Partner Referral Q2,Referral,12000,NovaPay Pro,Qualified,0.0,2024-05-22,,,11-50,59
+NP-1763,NovaPay,India,INR,Partner Referral Q2,Referral,12000,NovaPay Basic,Lead,0.0,2024-05-27,,,1-10,44
+NP-1764,NovaPay,UK,GBP,Partner Referral Q2,Referral,12000,NovaPay Pro,Lead,0.0,2024-05-01,,,1-10,32
+NP-1765,NovaPay,Singapore,SGD,Partner Referral Q2,Referral,12000,NovaPay Basic,Lead,0.0,2024-06-02,,,11-50,64
+NP-1766,NovaPay,UAE,AED,Partner Referral Q2,Referral,12000,NovaPay Pro,Proposal,0.0,2024-05-15,,,201-500,88
+NP-1767,NovaPay,India,INR,Influencer Summer,Influencer,22000,NovaPay Pro,Qualified,0.0,2024-06-05,,,500+,23
+NP-1768,NovaPay,India,INR,Partner Referral Q2,Referral,12000,NovaPay Enterprise,Negotiation,0.0,2024-05-06,,,500+,78
+NP-1769,NovaPay,USA,USD,Partner Referral Q2,Referral,12000,NovaPay Basic,Lead,0.0,2024-04-11,,,11-50,47
+NP-1770,NovaPay,Germany,EUR,Partner Referral Q2,Referral,12000,NovaPay Basic,Proposal,0.0,2024-06-03,,,11-50,64
+NP-1771,NovaPay,India,INR,SEO Content Drive,Organic Search,9000,NovaPay Basic,Qualified,0.0,2024-03-19,,,201-500,92
+NP-1772,NovaPay,UK,GBP,Partner Referral Q2,Referral,12000,NovaPay Pro,Lead,0.0,2024-06-18,,,500+,27
+NP-1773,NovaPay,Germany,EUR,Partner Referral Q2,Referral,12000,NovaPay Basic,Lead,0.0,2024-06-19,,,11-50,68
+NP-1774,NovaPay,Germany,EUR,Q1 Launch Blitz,Paid Social,18000,NovaPay Pro,Negotiation,0.0,2024-01-30,,,1-10,21
+NP-1775,NovaPay,UAE,AED,Q1 Launch Blitz,Paid Social,18000,NovaPay Pro,Lead,0.0,2024-02-28,,,500+,88
+NP-1776,NovaPay,Germany,EUR,Spring Email Push,Email,6000,NovaPay Basic,Demo,0.0,2024-03-28,False,False,11-50,30
+NP-1777,NovaPay,UK,GBP,Spring Email Push,Email,6000,NovaPay Pro,Qualified,0.0,2024-03-25,False,False,201-500,46
+NP-1778,NovaPay,UK,GBP,Influencer Summer,Influencer,22000,NovaPay Enterprise,Closed Won,2824.25,2024-06-01,,,51-200,11
+NP-1779,NovaPay,India,INR,Partner Referral Q2,Referral,12000,NovaPay Basic,Proposal,0.0,2024-06-07,,,11-50,37
+NP-1780,NovaPay,UAE,AED,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Qualified,0.0,2024-05-10,,,11-50,80
+NP-1781,NovaPay,India,INR,SEO Content Drive,Organic Search,9000,NovaPay Pro,Proposal,0.0,2024-03-07,,,11-50,28
+NP-1782,NovaPay,UAE,AED,Q1 Launch Blitz,Paid Social,18000,NovaPay Basic,Proposal,0.0,2024-03-23,,,500+,48
+NP-1783,NovaPay,USA,USD,SEO Content Drive,Organic Search,9000,NovaPay Basic,Qualified,0.0,2024-03-23,,,11-50,96
+NP-1784,NovaPay,India,INR,SEO Content Drive,Organic Search,9000,NovaPay Pro,Qualified,0.0,2024-05-11,,,11-50,68
+NP-1785,NovaPay,India,INR,Influencer Summer,Influencer,22000,NovaPay Enterprise,Lead,0.0,2024-07-09,,,51-200,57
+NP-1786,NovaPay,Singapore,SGD,Partner Referral Q2,Referral,12000,NovaPay Pro,Proposal,0.0,2024-04-13,,,51-200,70
+NP-1787,NovaPay,UK,GBP,Spring Email Push,Email,6000,NovaPay Enterprise,Lead,0.0,2024-04-07,False,False,11-50,88
+NP-1788,NovaPay,UK,GBP,Q1 Launch Blitz,Paid Social,18000,NovaPay Pro,Qualified,0.0,2024-01-21,,,201-500,98
+NP-1789,NovaPay,USA,USD,Fintech Webinar Series,Webinar,7500,NovaPay Enterprise,Lead,0.0,2024-06-19,,,51-200,77
+NP-1790,NovaPay,USA,USD,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Lead,0.0,2024-07-21,,,201-500,76
+NP-1791,NovaPay,India,INR,Influencer Summer,Influencer,22000,NovaPay Basic,Lead,0.0,2024-06-30,,,51-200,34
+NP-1792,NovaPay,UK,GBP,Q1 Launch Blitz,Paid Social,18000,NovaPay Basic,Proposal,0.0,2024-02-05,,,500+,63
+NP-1793,NovaPay,UK,GBP,Partner Referral Q2,Referral,12000,NovaPay Basic,Proposal,0.0,2024-05-02,,,1-10,91
+NP-1794,NovaPay,UAE,AED,Spring Email Push,Email,6000,NovaPay Basic,Lead,0.0,2024-03-24,False,False,51-200,10
+NP-1795,NovaPay,UAE,AED,Q1 Launch Blitz,Paid Social,18000,NovaPay Basic,Demo,0.0,2024-01-13,,,11-50,34
+NP-1796,NovaPay,Singapore,SGD,SEO Content Drive,Organic Search,9000,NovaPay Enterprise,Qualified,0.0,2024-04-30,,,1-10,92
+NP-1797,NovaPay,India,INR,Spring Email Push,Email,6000,NovaPay Pro,Negotiation,0.0,2024-04-23,False,False,201-500,62
+NP-1798,NovaPay,UK,GBP,Influencer Summer,Influencer,22000,NovaPay Pro,Qualified,0.0,2024-07-11,,,500+,78
+NP-1799,NovaPay,UK,GBP,Q1 Launch Blitz,Paid Social,18000,NovaPay Pro,Proposal,0.0,2024-02-24,,,1-10,29
+NP-1800,NovaPay,Singapore,SGD,SEO Content Drive,Organic Search,9000,NovaPay Basic,Lead,0.0,2024-05-08,,,11-50,83
+NP-1801,NovaPay,Germany,EUR,Fintech Webinar Series,Webinar,7500,NovaPay Pro,Proposal,0.0,2024-06-18,,,51-200,14
+NP-1802,NovaPay,Germany,EUR,SEO Content Drive,Organic Search,9000,NovaPay Basic,Lead,0.0,2024-04-27,,,51-200,37
+NP-1803,NovaPay,Germany,EUR,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Demo,0.0,2024-06-04,,,1-10,66
+NP-1804,NovaPay,UK,GBP,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Qualified,0.0,2024-06-03,,,51-200,71
+NP-1805,NovaPay,Singapore,SGD,Influencer Summer,Influencer,22000,NovaPay Basic,Lead,0.0,2024-06-13,,,500+,96
+NP-1806,NovaPay,UK,GBP,Spring Email Push,Email,6000,NovaPay Basic,Lead,0.0,2024-04-21,True,False,1-10,97
+NP-1807,NovaPay,Singapore,SGD,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Negotiation,0.0,2024-05-23,,,500+,94
+NP-1808,NovaPay,Germany,EUR,Influencer Summer,Influencer,22000,NovaPay Pro,Lead,0.0,2024-06-27,,,51-200,35
+NP-1809,NovaPay,Germany,EUR,Spring Email Push,Email,6000,NovaPay Pro,Demo,0.0,2024-03-01,True,True,1-10,11
+NP-1810,NovaPay,India,INR,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Qualified,0.0,2024-07-19,,,51-200,44
+NP-1811,NovaPay,USA,USD,Spring Email Push,Email,6000,NovaPay Pro,Qualified,0.0,2024-03-07,True,False,51-200,79
+NP-1812,NovaPay,UK,GBP,Partner Referral Q2,Referral,12000,NovaPay Basic,Negotiation,0.0,2024-04-11,,,1-10,59
+NP-1813,NovaPay,UK,GBP,Q1 Launch Blitz,Paid Social,18000,NovaPay Basic,Demo,0.0,2024-03-25,,,201-500,88
+NP-1814,NovaPay,Germany,EUR,SEO Content Drive,Organic Search,9000,NovaPay Pro,Demo,0.0,2024-05-08,,,1-10,69
+NP-1815,NovaPay,UK,GBP,Fintech Webinar Series,Webinar,7500,NovaPay Pro,Negotiation,0.0,2024-07-08,,,1-10,68
+NP-1816,NovaPay,UAE,AED,SEO Content Drive,Organic Search,9000,NovaPay Pro,Qualified,0.0,2024-03-30,,,11-50,28
+NP-1817,NovaPay,Germany,EUR,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Lead,0.0,2024-06-21,,,51-200,68
+NP-1818,NovaPay,UK,GBP,Partner Referral Q2,Referral,12000,NovaPay Basic,Lead,0.0,2024-06-03,,,11-50,46
+NP-1819,NovaPay,India,INR,SEO Content Drive,Organic Search,9000,NovaPay Basic,Lead,0.0,2024-03-14,,,51-200,81
+NP-1820,NovaPay,UK,GBP,Influencer Summer,Influencer,22000,NovaPay Basic,Qualified,0.0,2024-08-15,,,201-500,40
+NP-1821,NovaPay,UK,GBP,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Qualified,0.0,2024-05-18,,,51-200,36
+NP-1822,NovaPay,India,INR,Influencer Summer,Influencer,22000,NovaPay Pro,Qualified,0.0,2024-07-14,,,500+,98
+NP-1823,NovaPay,UK,GBP,Spring Email Push,Email,6000,NovaPay Pro,Demo,0.0,2024-04-28,False,False,1-10,85
+NP-1824,NovaPay,India,INR,Fintech Webinar Series,Webinar,7500,NovaPay Pro,Proposal,0.0,2024-06-01,,,51-200,61
+NP-1825,NovaPay,India,INR,Q1 Launch Blitz,Paid Social,18000,NovaPay Pro,Qualified,0.0,2024-02-27,,,51-200,73
+NP-1826,NovaPay,UAE,AED,Influencer Summer,Influencer,22000,NovaPay Basic,Proposal,0.0,2024-08-14,,,1-10,28
+NP-1827,NovaPay,UK,GBP,Influencer Summer,Influencer,22000,NovaPay Pro,Lead,0.0,2024-08-13,,,201-500,35
+NP-1828,NovaPay,UAE,AED,Spring Email Push,Email,6000,NovaPay Basic,Qualified,0.0,2024-03-24,False,False,201-500,54
+NP-1829,NovaPay,India,INR,Q1 Launch Blitz,Paid Social,18000,NovaPay Pro,Qualified,0.0,2024-01-26,,,51-200,17
+NP-1830,NovaPay,USA,USD,SEO Content Drive,Organic Search,9000,NovaPay Enterprise,Lead,0.0,2024-05-11,,,51-200,24
+NP-1831,NovaPay,Singapore,SGD,SEO Content Drive,Organic Search,9000,NovaPay Basic,Demo,0.0,2024-04-20,,,51-200,58
+NP-1832,NovaPay,Germany,EUR,Partner Referral Q2,Referral,12000,NovaPay Pro,Demo,0.0,2024-06-04,,,11-50,34
+NP-1833,NovaPay,Germany,EUR,Fintech Webinar Series,Webinar,7500,NovaPay Enterprise,Proposal,0.0,2024-05-29,,,51-200,95
+NP-1834,NovaPay,UK,GBP,Spring Email Push,Email,6000,NovaPay Basic,Lead,0.0,2024-04-17,False,False,11-50,20
+NP-1835,NovaPay,India,INR,Spring Email Push,Email,6000,NovaPay Basic,Qualified,0.0,2024-04-09,False,False,201-500,75
+NP-1836,NovaPay,India,INR,Partner Referral Q2,Referral,12000,NovaPay Basic,Lead,0.0,2024-04-28,,,201-500,87
+NP-1837,NovaPay,India,INR,Q1 Launch Blitz,Paid Social,18000,NovaPay Pro,Lead,0.0,2024-03-14,,,51-200,62
+NP-1838,NovaPay,India,INR,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Lead,0.0,2024-07-10,,,51-200,24
+NP-1839,NovaPay,India,INR,Fintech Webinar Series,Webinar,7500,NovaPay Pro,Lead,0.0,2024-07-16,,,51-200,69
+NP-1840,NovaPay,UK,GBP,Fintech Webinar Series,Webinar,7500,NovaPay Enterprise,Lead,0.0,2024-07-09,,,1-10,97
+NP-1841,NovaPay,India,INR,Influencer Summer,Influencer,22000,NovaPay Pro,Qualified,0.0,2024-07-14,,,500+,11
+NP-1842,NovaPay,India,INR,Partner Referral Q2,Referral,12000,NovaPay Enterprise,Qualified,0.0,2024-05-17,,,201-500,55
+NP-1843,NovaPay,Germany,EUR,SEO Content Drive,Organic Search,9000,NovaPay Basic,Negotiation,0.0,2024-04-08,,,500+,43
+NP-1844,NovaPay,India,INR,Q1 Launch Blitz,Paid Social,18000,NovaPay Pro,Qualified,0.0,2024-02-16,,,500+,13
+NP-1845,NovaPay,India,INR,SEO Content Drive,Organic Search,9000,NovaPay Basic,Lead,0.0,2024-04-05,,,51-200,26
+NP-1846,NovaPay,Germany,EUR,Fintech Webinar Series,Webinar,7500,NovaPay Enterprise,Lead,0.0,2024-05-24,,,500+,32
+NP-1847,NovaPay,UAE,AED,Fintech Webinar Series,Webinar,7500,NovaPay Pro,Lead,0.0,2024-06-01,,,51-200,99
+NP-1848,NovaPay,India,INR,Spring Email Push,Email,6000,NovaPay Pro,Proposal,0.0,2024-03-29,False,False,11-50,86
+NP-1849,NovaPay,Singapore,SGD,Spring Email Push,Email,6000,NovaPay Pro,Qualified,0.0,2024-04-04,True,False,11-50,36
+NP-1850,NovaPay,UAE,AED,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Qualified,0.0,2024-05-24,,,1-10,31
+NP-1851,NovaPay,Germany,EUR,Partner Referral Q2,Referral,12000,NovaPay Basic,Demo,0.0,2024-06-12,,,11-50,58
+NP-1852,NovaPay,UAE,AED,Influencer Summer,Influencer,22000,NovaPay Basic,Lead,0.0,2024-07-26,,,1-10,46
+NP-1853,NovaPay,Germany,EUR,Partner Referral Q2,Referral,12000,NovaPay Basic,Qualified,0.0,2024-04-10,,,1-10,78
+NP-1854,NovaPay,Germany,EUR,Influencer Summer,Influencer,22000,NovaPay Pro,Qualified,0.0,2024-07-05,,,51-200,44
+NP-1855,NovaPay,Singapore,SGD,SEO Content Drive,Organic Search,9000,NovaPay Basic,Qualified,0.0,2024-04-29,,,11-50,96
+NP-1856,NovaPay,UAE,AED,Fintech Webinar Series,Webinar,7500,NovaPay Pro,Demo,0.0,2024-06-02,,,51-200,80
+NP-1857,NovaPay,UAE,AED,Q1 Launch Blitz,Paid Social,18000,NovaPay Pro,Lead,0.0,2024-01-22,,,500+,23
+NP-1858,NovaPay,Germany,EUR,Influencer Summer,Influencer,22000,NovaPay Basic,Lead,0.0,2024-06-25,,,1-10,13
+NP-1859,NovaPay,UK,GBP,Fintech Webinar Series,Webinar,7500,NovaPay Enterprise,Demo,0.0,2024-06-06,,,500+,91
+NP-1860,NovaPay,UAE,AED,Q1 Launch Blitz,Paid Social,18000,NovaPay Basic,Proposal,0.0,2024-01-26,,,201-500,94
+NP-1861,NovaPay,India,INR,Influencer Summer,Influencer,22000,NovaPay Enterprise,Negotiation,0.0,2024-06-24,,,51-200,47
+NP-1862,NovaPay,UAE,AED,Partner Referral Q2,Referral,12000,NovaPay Basic,Qualified,0.0,2024-05-10,,,201-500,98
+NP-1863,NovaPay,UAE,AED,Influencer Summer,Influencer,22000,NovaPay Basic,Lead,0.0,2024-06-10,,,51-200,17
+NP-1864,NovaPay,Germany,EUR,Partner Referral Q2,Referral,12000,NovaPay Enterprise,Lead,0.0,2024-05-08,,,11-50,66
+NP-1865,NovaPay,India,INR,Q1 Launch Blitz,Paid Social,18000,NovaPay Enterprise,Qualified,0.0,2024-02-01,,,201-500,23
+NP-1866,NovaPay,India,INR,Spring Email Push,Email,6000,NovaPay Basic,Qualified,0.0,2024-02-28,False,False,51-200,23
+NP-1867,NovaPay,UK,GBP,Q1 Launch Blitz,Paid Social,18000,NovaPay Pro,Lead,0.0,2024-03-07,,,1-10,73
+NP-1868,NovaPay,UAE,AED,Spring Email Push,Email,6000,NovaPay Basic,Lead,0.0,2024-04-04,True,False,201-500,83
+NP-1869,NovaPay,India,INR,Q1 Launch Blitz,Paid Social,18000,NovaPay Enterprise,Qualified,0.0,2024-03-05,,,201-500,18
+NP-1870,NovaPay,UK,GBP,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Demo,0.0,2024-07-10,,,1-10,82
+NP-1871,NovaPay,USA,USD,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Demo,0.0,2024-06-30,,,1-10,90
+NP-1872,NovaPay,UK,GBP,Influencer Summer,Influencer,22000,NovaPay Pro,Closed Won,1104.45,2024-06-11,,,51-200,92
+NP-1873,NovaPay,UK,GBP,Spring Email Push,Email,6000,NovaPay Basic,Lead,0.0,2024-03-10,True,False,1-10,90
+NP-1874,NovaPay,Germany,EUR,Influencer Summer,Influencer,22000,NovaPay Basic,Qualified,0.0,2024-06-25,,,11-50,14
+NP-1875,NovaPay,UK,GBP,Spring Email Push,Email,6000,NovaPay Enterprise,Lead,0.0,2024-04-04,True,False,51-200,73
+NP-1876,NovaPay,USA,USD,Fintech Webinar Series,Webinar,7500,NovaPay Pro,Closed Won,779.14,2024-05-12,,,1-10,53
+NP-1877,NovaPay,UK,GBP,Influencer Summer,Influencer,22000,NovaPay Basic,Proposal,0.0,2024-08-06,,,201-500,96
+NP-1878,NovaPay,UK,GBP,Fintech Webinar Series,Webinar,7500,NovaPay Pro,Negotiation,0.0,2024-05-14,,,11-50,72
+NP-1879,NovaPay,UK,GBP,Influencer Summer,Influencer,22000,NovaPay Enterprise,Qualified,0.0,2024-07-02,,,11-50,11
+NP-1880,NovaPay,India,INR,Spring Email Push,Email,6000,NovaPay Enterprise,Proposal,0.0,2024-02-27,False,False,11-50,85
+NP-1881,NovaPay,Singapore,SGD,Q1 Launch Blitz,Paid Social,18000,NovaPay Basic,Qualified,0.0,2024-02-07,,,1-10,35
+NP-1882,NovaPay,Germany,EUR,Partner Referral Q2,Referral,12000,NovaPay Pro,Demo,0.0,2024-05-26,,,51-200,25
+NP-1883,NovaPay,India,INR,Influencer Summer,Influencer,22000,NovaPay Basic,Proposal,0.0,2024-06-28,,,1-10,85
+NP-1884,NovaPay,Germany,EUR,Spring Email Push,Email,6000,NovaPay Basic,Lead,0.0,2024-04-08,True,False,11-50,66
+NP-1885,NovaPay,USA,USD,Spring Email Push,Email,6000,NovaPay Basic,Lead,0.0,2024-04-03,False,False,1-10,72
+NP-1886,NovaPay,UK,GBP,Q1 Launch Blitz,Paid Social,18000,NovaPay Basic,Lead,0.0,2024-03-25,,,51-200,63
+NP-1887,NovaPay,Singapore,SGD,Influencer Summer,Influencer,22000,NovaPay Pro,Demo,0.0,2024-06-27,,,11-50,91
+NP-1888,NovaPay,India,INR,SEO Content Drive,Organic Search,9000,NovaPay Basic,Negotiation,0.0,2024-03-05,,,500+,33
+NP-1889,NovaPay,India,INR,Influencer Summer,Influencer,22000,NovaPay Enterprise,Qualified,0.0,2024-07-09,,,51-200,63
+NP-1890,NovaPay,India,INR,Q1 Launch Blitz,Paid Social,18000,NovaPay Basic,Closed Lost,0.0,2024-01-22,,,500+,56
+NP-1891,NovaPay,India,INR,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Qualified,0.0,2024-06-05,,,51-200,16
+NP-1892,NovaPay,UK,GBP,Spring Email Push,Email,6000,NovaPay Basic,Proposal,0.0,2024-04-15,False,False,11-50,95
+NP-1893,NovaPay,UK,GBP,Q1 Launch Blitz,Paid Social,18000,NovaPay Basic,Lead,0.0,2024-02-11,,,51-200,88
+NP-1894,NovaPay,UK,GBP,Partner Referral Q2,Referral,12000,NovaPay Pro,Negotiation,0.0,2024-04-27,,,11-50,13
+NP-1895,NovaPay,India,INR,Partner Referral Q2,Referral,12000,NovaPay Basic,Lead,0.0,2024-05-31,,,500+,84
+NP-1896,NovaPay,Germany,EUR,SEO Content Drive,Organic Search,9000,NovaPay Pro,Negotiation,0.0,2024-03-30,,,1-10,51
+NP-1897,NovaPay,UK,GBP,Spring Email Push,Email,6000,NovaPay Pro,Proposal,0.0,2024-04-03,False,False,1-10,70
+NP-1898,NovaPay,India,INR,Fintech Webinar Series,Webinar,7500,NovaPay Enterprise,Lead,0.0,2024-07-07,,,11-50,59
+NP-1899,NovaPay,UK,GBP,SEO Content Drive,Organic Search,9000,NovaPay Pro,Qualified,0.0,2024-04-04,,,11-50,52
+NP-1900,NovaPay,UK,GBP,Spring Email Push,Email,6000,NovaPay Pro,Lead,0.0,2024-02-29,False,False,201-500,63
+NP-1901,NovaPay,UAE,AED,Spring Email Push,Email,6000,NovaPay Basic,Lead,0.0,2024-03-06,False,False,500+,31
+NP-1902,NovaPay,USA,USD,Fintech Webinar Series,Webinar,7500,NovaPay Enterprise,Lead,0.0,2024-07-15,,,201-500,37
+NP-1903,NovaPay,India,INR,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Lead,0.0,2024-07-03,,,11-50,41
+NP-1904,NovaPay,Germany,EUR,SEO Content Drive,Organic Search,9000,NovaPay Basic,Negotiation,0.0,2024-03-20,,,500+,10
+NP-1905,NovaPay,USA,USD,Partner Referral Q2,Referral,12000,NovaPay Basic,Qualified,0.0,2024-06-08,,,1-10,64
+NP-1906,NovaPay,Germany,EUR,Fintech Webinar Series,Webinar,7500,NovaPay Pro,Demo,0.0,2024-05-22,,,201-500,73
+NP-1907,NovaPay,UK,GBP,Spring Email Push,Email,6000,NovaPay Pro,Demo,0.0,2024-04-07,False,False,11-50,55
+NP-1908,NovaPay,UK,GBP,SEO Content Drive,Organic Search,9000,NovaPay Enterprise,Lead,0.0,2024-04-09,,,11-50,68
+NP-1909,NovaPay,UAE,AED,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Qualified,0.0,2024-05-27,,,201-500,33
+NP-1910,NovaPay,India,INR,SEO Content Drive,Organic Search,9000,NovaPay Pro,Lead,0.0,2024-03-10,,,201-500,98
+NP-1911,NovaPay,India,INR,SEO Content Drive,Organic Search,9000,NovaPay Basic,Demo,0.0,2024-05-09,,,500+,36
+NP-1912,NovaPay,UK,GBP,Influencer Summer,Influencer,22000,NovaPay Enterprise,Demo,0.0,2024-06-08,,,500+,96
+NP-1913,NovaPay,Singapore,SGD,SEO Content Drive,Organic Search,9000,NovaPay Basic,Lead,0.0,2024-03-06,,,51-200,56
+NP-1914,NovaPay,India,INR,Spring Email Push,Email,6000,NovaPay Pro,Qualified,0.0,2024-03-12,True,False,500+,24
+NP-1915,NovaPay,India,INR,Influencer Summer,Influencer,22000,NovaPay Enterprise,Qualified,0.0,2024-06-27,,,11-50,51
+NP-1916,NovaPay,Singapore,SGD,SEO Content Drive,Organic Search,9000,NovaPay Pro,Qualified,0.0,2024-03-07,,,1-10,57
+NP-1917,NovaPay,India,INR,SEO Content Drive,Organic Search,9000,NovaPay Pro,Proposal,0.0,2024-04-30,,,500+,96
+NP-1918,NovaPay,Singapore,SGD,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Lead,0.0,2024-05-18,,,11-50,68
+NP-1919,NovaPay,UK,GBP,Q1 Launch Blitz,Paid Social,18000,NovaPay Enterprise,Lead,0.0,2024-01-19,,,1-10,31
+NP-1920,NovaPay,UK,GBP,SEO Content Drive,Organic Search,9000,NovaPay Basic,Lead,0.0,2024-03-27,,,500+,90
+NP-1921,NovaPay,Germany,EUR,Q1 Launch Blitz,Paid Social,18000,NovaPay Enterprise,Qualified,0.0,2024-01-26,,,201-500,54
+NP-1922,NovaPay,Germany,EUR,Partner Referral Q2,Referral,12000,NovaPay Pro,Lead,0.0,2024-04-13,,,1-10,39
+NP-1923,NovaPay,India,INR,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Lead,0.0,2024-06-20,,,201-500,85
+NP-1924,NovaPay,UAE,AED,Influencer Summer,Influencer,22000,NovaPay Pro,Qualified,0.0,2024-07-09,,,500+,26
+NP-1925,NovaPay,UK,GBP,SEO Content Drive,Organic Search,9000,NovaPay Basic,Qualified,0.0,2024-04-06,,,1-10,28
+NP-1926,NovaPay,Germany,EUR,SEO Content Drive,Organic Search,9000,NovaPay Enterprise,Qualified,0.0,2024-03-21,,,500+,46
+NP-1927,NovaPay,USA,USD,Spring Email Push,Email,6000,NovaPay Pro,Demo,0.0,2024-03-05,True,True,51-200,83
+NP-1928,NovaPay,Germany,EUR,Spring Email Push,Email,6000,NovaPay Basic,Lead,0.0,2024-02-19,False,False,51-200,28
+NP-1929,NovaPay,Germany,EUR,SEO Content Drive,Organic Search,9000,NovaPay Enterprise,Qualified,0.0,2024-03-16,,,1-10,61
+NP-1930,NovaPay,UAE,AED,Partner Referral Q2,Referral,12000,NovaPay Enterprise,Negotiation,0.0,2024-04-24,,,1-10,79
+NP-1931,NovaPay,Germany,EUR,Fintech Webinar Series,Webinar,7500,NovaPay Pro,Qualified,0.0,2024-06-16,,,500+,95
+NP-1932,NovaPay,UAE,AED,Spring Email Push,Email,6000,NovaPay Pro,Negotiation,0.0,2024-03-29,False,False,201-500,15
+NP-1933,NovaPay,UAE,AED,Spring Email Push,Email,6000,NovaPay Basic,Lead,0.0,2024-03-14,False,False,1-10,51
+NP-1934,NovaPay,India,INR,Q1 Launch Blitz,Paid Social,18000,NovaPay Basic,Qualified,0.0,2024-02-14,,,11-50,12
+NP-1935,NovaPay,India,INR,Q1 Launch Blitz,Paid Social,18000,NovaPay Basic,Demo,0.0,2024-01-21,,,500+,60
+NP-1936,NovaPay,India,INR,Spring Email Push,Email,6000,NovaPay Pro,Qualified,0.0,2024-02-22,False,False,51-200,60
+NP-1937,NovaPay,UAE,AED,Spring Email Push,Email,6000,NovaPay Basic,Lead,0.0,2024-02-16,True,False,201-500,81
+NP-1938,NovaPay,UK,GBP,Q1 Launch Blitz,Paid Social,18000,NovaPay Enterprise,Demo,0.0,2024-03-03,,,201-500,46
+NP-1939,NovaPay,Singapore,SGD,Spring Email Push,Email,6000,NovaPay Enterprise,Qualified,0.0,2024-04-08,True,False,1-10,28
+NP-1940,NovaPay,Germany,EUR,Spring Email Push,Email,6000,NovaPay Enterprise,Qualified,0.0,2024-03-28,True,False,201-500,21
+NP-1941,NovaPay,Germany,EUR,Q1 Launch Blitz,Paid Social,18000,NovaPay Enterprise,Qualified,0.0,2024-03-21,,,201-500,82
+NP-1942,NovaPay,UK,GBP,Spring Email Push,Email,6000,NovaPay Pro,Lead,0.0,2024-04-17,True,False,500+,48
+NP-1943,NovaPay,India,INR,Partner Referral Q2,Referral,12000,NovaPay Basic,Lead,0.0,2024-04-05,,,11-50,43
+NP-1944,NovaPay,USA,USD,SEO Content Drive,Organic Search,9000,NovaPay Pro,Qualified,0.0,2024-04-06,,,201-500,32
+NP-1945,NovaPay,USA,USD,Partner Referral Q2,Referral,12000,NovaPay Pro,Lead,0.0,2024-05-10,,,201-500,18
+NP-1946,NovaPay,UAE,AED,Fintech Webinar Series,Webinar,7500,NovaPay Pro,Qualified,0.0,2024-06-12,,,201-500,98
+NP-1947,NovaPay,Germany,EUR,Q1 Launch Blitz,Paid Social,18000,NovaPay Pro,Lead,0.0,2024-02-12,,,11-50,84
+NP-1948,NovaPay,UK,GBP,Q1 Launch Blitz,Paid Social,18000,NovaPay Basic,Demo,0.0,2024-02-24,,,11-50,16
+NP-1949,NovaPay,Germany,EUR,SEO Content Drive,Organic Search,9000,NovaPay Pro,Closed Won,881.41,2024-03-07,,,500+,91
+NP-1950,NovaPay,India,INR,Q1 Launch Blitz,Paid Social,18000,NovaPay Pro,Lead,0.0,2024-01-22,,,500+,31
+NP-1951,NovaPay,Germany,EUR,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Proposal,0.0,2024-06-17,,,51-200,97
+NP-1952,NovaPay,UAE,AED,Influencer Summer,Influencer,22000,NovaPay Basic,Qualified,0.0,2024-06-19,,,1-10,27
+NP-1953,NovaPay,Germany,EUR,Fintech Webinar Series,Webinar,7500,NovaPay Pro,Qualified,0.0,2024-05-30,,,1-10,37
+NP-1954,NovaPay,India,INR,Spring Email Push,Email,6000,NovaPay Pro,Proposal,0.0,2024-04-26,False,False,500+,78
+NP-1955,NovaPay,India,INR,Influencer Summer,Influencer,22000,NovaPay Pro,Lead,0.0,2024-07-29,,,1-10,24
+NP-1956,NovaPay,USA,USD,Spring Email Push,Email,6000,NovaPay Basic,Lead,0.0,2024-04-01,True,False,500+,76
+NP-1957,NovaPay,UK,GBP,SEO Content Drive,Organic Search,9000,NovaPay Basic,Demo,0.0,2024-03-16,,,11-50,26
+NP-1958,NovaPay,UK,GBP,Influencer Summer,Influencer,22000,NovaPay Basic,Lead,0.0,2024-06-17,,,1-10,64
+NP-1959,NovaPay,UAE,AED,Influencer Summer,Influencer,22000,NovaPay Basic,Lead,0.0,2024-08-01,,,201-500,15
+NP-1960,NovaPay,UK,GBP,Spring Email Push,Email,6000,NovaPay Pro,Qualified,0.0,2024-02-22,False,False,51-200,15
+NP-1961,NovaPay,Germany,EUR,Q1 Launch Blitz,Paid Social,18000,NovaPay Basic,Lead,0.0,2024-01-25,,,500+,36
+NP-1962,NovaPay,USA,USD,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Lead,0.0,2024-05-21,,,11-50,45
+NP-1963,NovaPay,Germany,EUR,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Qualified,0.0,2024-06-09,,,500+,82
+NP-1964,NovaPay,UK,GBP,Q1 Launch Blitz,Paid Social,18000,NovaPay Pro,Lead,0.0,2024-02-06,,,11-50,46
+NP-1965,NovaPay,USA,USD,Spring Email Push,Email,6000,NovaPay Pro,Closed Won,1138.05,2024-02-27,False,False,201-500,56
+NP-1966,NovaPay,India,INR,Influencer Summer,Influencer,22000,NovaPay Basic,Closed Won,366.46,2024-06-24,,,201-500,64
+NP-1967,NovaPay,India,INR,Spring Email Push,Email,6000,NovaPay Basic,Demo,0.0,2024-03-26,True,True,11-50,73
+NP-1968,NovaPay,UAE,AED,SEO Content Drive,Organic Search,9000,NovaPay Pro,Lead,0.0,2024-04-11,,,201-500,24
+NP-1969,NovaPay,Germany,EUR,Partner Referral Q2,Referral,12000,NovaPay Pro,Lead,0.0,2024-05-31,,,11-50,80
+NP-1970,NovaPay,Germany,EUR,Partner Referral Q2,Referral,12000,NovaPay Enterprise,Lead,0.0,2024-04-13,,,201-500,96
+NP-1971,NovaPay,UK,GBP,SEO Content Drive,Organic Search,9000,NovaPay Enterprise,Qualified,0.0,2024-03-14,,,201-500,66
+NP-1972,NovaPay,UAE,AED,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Lead,0.0,2024-06-30,,,500+,23
+NP-1973,NovaPay,USA,USD,Influencer Summer,Influencer,22000,NovaPay Enterprise,Lead,0.0,2024-06-26,,,51-200,35
+NP-1974,NovaPay,Singapore,SGD,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Lead,0.0,2024-07-03,,,201-500,45
+NP-1975,NovaPay,UAE,AED,Influencer Summer,Influencer,22000,NovaPay Pro,Demo,0.0,2024-07-22,,,51-200,70
+NP-1976,NovaPay,India,INR,Influencer Summer,Influencer,22000,NovaPay Basic,Qualified,0.0,2024-07-06,,,11-50,68
+NP-1977,NovaPay,UK,GBP,Q1 Launch Blitz,Paid Social,18000,NovaPay Basic,Lead,0.0,2024-01-27,,,1-10,22
+NP-1978,NovaPay,UK,GBP,Influencer Summer,Influencer,22000,NovaPay Basic,Demo,0.0,2024-06-23,,,201-500,87
+NP-1979,NovaPay,Germany,EUR,Influencer Summer,Influencer,22000,NovaPay Basic,Qualified,0.0,2024-06-10,,,500+,73
+NP-1980,NovaPay,UK,GBP,Partner Referral Q2,Referral,12000,NovaPay Pro,Qualified,0.0,2024-05-08,,,500+,53
+NP-1981,NovaPay,India,INR,Fintech Webinar Series,Webinar,7500,NovaPay Enterprise,Lead,0.0,2024-07-04,,,1-10,59
+NP-1982,NovaPay,Germany,EUR,Partner Referral Q2,Referral,12000,NovaPay Basic,Qualified,0.0,2024-04-09,,,11-50,81
+NP-1983,NovaPay,Singapore,SGD,Influencer Summer,Influencer,22000,NovaPay Basic,Demo,0.0,2024-08-02,,,201-500,27
+NP-1984,NovaPay,UAE,AED,SEO Content Drive,Organic Search,9000,NovaPay Basic,Lead,0.0,2024-05-02,,,500+,97
+NP-1985,NovaPay,India,INR,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Proposal,0.0,2024-07-13,,,1-10,60
+NP-1986,NovaPay,India,INR,SEO Content Drive,Organic Search,9000,NovaPay Enterprise,Qualified,0.0,2024-04-15,,,51-200,51
+NP-1987,NovaPay,UK,GBP,Q1 Launch Blitz,Paid Social,18000,NovaPay Basic,Proposal,0.0,2024-02-23,,,500+,13
+NP-1988,NovaPay,Germany,EUR,Influencer Summer,Influencer,22000,NovaPay Basic,Lead,0.0,2024-07-16,,,201-500,54
+NP-1989,NovaPay,UAE,AED,Q1 Launch Blitz,Paid Social,18000,NovaPay Basic,Demo,0.0,2024-03-25,,,1-10,98
+NP-1990,NovaPay,Singapore,SGD,Q1 Launch Blitz,Paid Social,18000,NovaPay Basic,Lead,0.0,2024-03-18,,,51-200,14
+NP-1991,NovaPay,UAE,AED,Partner Referral Q2,Referral,12000,NovaPay Basic,Qualified,0.0,2024-05-28,,,51-200,12
+NP-1992,NovaPay,India,INR,Influencer Summer,Influencer,22000,NovaPay Basic,Lead,0.0,2024-08-13,,,201-500,51
+NP-1993,NovaPay,UK,GBP,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Demo,0.0,2024-06-05,,,51-200,73
+NP-1994,NovaPay,Singapore,SGD,Fintech Webinar Series,Webinar,7500,NovaPay Pro,Lead,0.0,2024-06-17,,,51-200,65
+NP-1995,NovaPay,India,INR,Spring Email Push,Email,6000,NovaPay Pro,Demo,0.0,2024-04-23,True,True,51-200,83
+NP-1996,NovaPay,Singapore,SGD,Partner Referral Q2,Referral,12000,NovaPay Pro,Closed Won,802.47,2024-06-18,,,51-200,44
+NP-1997,NovaPay,India,INR,Q1 Launch Blitz,Paid Social,18000,NovaPay Pro,Qualified,0.0,2024-02-23,,,1-10,93
+NP-1998,NovaPay,India,INR,SEO Content Drive,Organic Search,9000,NovaPay Basic,Demo,0.0,2024-04-10,,,11-50,63
+NP-1999,NovaPay,Germany,EUR,Partner Referral Q2,Referral,12000,NovaPay Pro,Demo,0.0,2024-06-14,,,11-50,12
+NP-2000,NovaPay,UAE,AED,Influencer Summer,Influencer,22000,NovaPay Enterprise,Qualified,0.0,2024-06-28,,,201-500,44
+NP-2001,NovaPay,India,INR,Influencer Summer,Influencer,22000,NovaPay Pro,Demo,0.0,2024-07-26,,,500+,90
+NP-2002,NovaPay,India,INR,Q1 Launch Blitz,Paid Social,18000,NovaPay Basic,Lead,0.0,2024-01-29,,,51-200,65
+NP-2003,NovaPay,Germany,EUR,Partner Referral Q2,Referral,12000,NovaPay Pro,Lead,0.0,2024-05-01,,,201-500,44
+NP-2004,NovaPay,India,INR,SEO Content Drive,Organic Search,9000,NovaPay Basic,Qualified,0.0,2024-04-21,,,11-50,24
+NP-2005,NovaPay,UK,GBP,Spring Email Push,Email,6000,NovaPay Basic,Proposal,0.0,2024-04-14,False,False,201-500,64
+NP-2006,NovaPay,USA,USD,Influencer Summer,Influencer,22000,NovaPay Basic,Lead,0.0,2024-06-04,,,51-200,45
+NP-2007,NovaPay,India,INR,Influencer Summer,Influencer,22000,NovaPay Pro,Lead,0.0,2024-08-02,,,1-10,17
+NP-2008,NovaPay,Germany,EUR,Q1 Launch Blitz,Paid Social,18000,NovaPay Basic,Lead,0.0,2024-03-02,,,51-200,95
+NP-2009,NovaPay,Singapore,SGD,Influencer Summer,Influencer,22000,NovaPay Basic,Proposal,0.0,2024-06-18,,,11-50,24
+NP-2010,NovaPay,UAE,AED,Fintech Webinar Series,Webinar,7500,NovaPay Enterprise,Qualified,0.0,2024-07-23,,,500+,42
+NP-2011,NovaPay,Singapore,SGD,Partner Referral Q2,Referral,12000,NovaPay Basic,Lead,0.0,2024-05-15,,,51-200,84
+NP-2012,NovaPay,Germany,EUR,Influencer Summer,Influencer,22000,NovaPay Pro,Lead,0.0,2024-07-25,,,11-50,28
+NP-2013,NovaPay,UK,GBP,Q1 Launch Blitz,Paid Social,18000,NovaPay Enterprise,Qualified,0.0,2024-02-11,,,500+,17
+NP-2014,NovaPay,India,INR,Partner Referral Q2,Referral,12000,NovaPay Pro,Lead,0.0,2024-06-13,,,201-500,70
+NP-2015,NovaPay,UK,GBP,Influencer Summer,Influencer,22000,NovaPay Basic,Demo,0.0,2024-06-19,,,51-200,70
+NP-2016,NovaPay,Germany,EUR,Influencer Summer,Influencer,22000,NovaPay Basic,Demo,0.0,2024-06-05,,,1-10,98
+NP-2017,NovaPay,UK,GBP,Influencer Summer,Influencer,22000,NovaPay Pro,Lead,0.0,2024-07-17,,,1-10,78
+NP-2018,NovaPay,Singapore,SGD,Spring Email Push,Email,6000,NovaPay Basic,Negotiation,0.0,2024-04-05,False,False,51-200,48
+NP-2019,NovaPay,USA,USD,Q1 Launch Blitz,Paid Social,18000,NovaPay Pro,Lead,0.0,2024-01-30,,,201-500,90
+NP-2020,NovaPay,Singapore,SGD,SEO Content Drive,Organic Search,9000,NovaPay Pro,Lead,0.0,2024-03-05,,,51-200,20
+NP-2021,NovaPay,India,INR,Partner Referral Q2,Referral,12000,NovaPay Basic,Proposal,0.0,2024-05-29,,,1-10,30
+NP-2022,NovaPay,Germany,EUR,Influencer Summer,Influencer,22000,NovaPay Basic,Qualified,0.0,2024-08-10,,,51-200,68
+NP-2023,NovaPay,UK,GBP,Influencer Summer,Influencer,22000,NovaPay Basic,Qualified,0.0,2024-07-27,,,11-50,10
+NP-2024,NovaPay,UK,GBP,Partner Referral Q2,Referral,12000,NovaPay Basic,Qualified,0.0,2024-04-19,,,11-50,41
+NP-2025,NovaPay,UAE,AED,Fintech Webinar Series,Webinar,7500,NovaPay Pro,Demo,0.0,2024-05-26,,,500+,97
+NP-2026,NovaPay,UAE,AED,Partner Referral Q2,Referral,12000,NovaPay Basic,Qualified,0.0,2024-04-22,,,51-200,32
+NP-2027,NovaPay,India,INR,Influencer Summer,Influencer,22000,NovaPay Basic,Lead,0.0,2024-06-11,,,201-500,57
+NP-2028,NovaPay,Germany,EUR,Spring Email Push,Email,6000,NovaPay Basic,Proposal,0.0,2024-04-28,True,False,500+,92
+NP-2029,NovaPay,India,INR,Fintech Webinar Series,Webinar,7500,NovaPay Enterprise,Closed Won,2418.54,2024-06-04,,,11-50,16
+NP-2030,NovaPay,India,INR,Partner Referral Q2,Referral,12000,NovaPay Pro,Lead,0.0,2024-05-22,,,11-50,82
+NP-2031,NovaPay,UK,GBP,Q1 Launch Blitz,Paid Social,18000,NovaPay Pro,Demo,0.0,2024-03-08,,,201-500,25
+NP-2032,NovaPay,UAE,AED,Spring Email Push,Email,6000,NovaPay Basic,Proposal,0.0,2024-03-20,True,False,11-50,65
+NP-2033,NovaPay,India,INR,Spring Email Push,Email,6000,NovaPay Enterprise,Lead,0.0,2024-03-10,True,False,11-50,13
+NP-2034,NovaPay,USA,USD,SEO Content Drive,Organic Search,9000,NovaPay Basic,Qualified,0.0,2024-04-01,,,51-200,84
+NP-2035,NovaPay,India,INR,Influencer Summer,Influencer,22000,NovaPay Basic,Qualified,0.0,2024-07-12,,,201-500,97
+NP-2036,NovaPay,UAE,AED,Spring Email Push,Email,6000,NovaPay Pro,Demo,0.0,2024-03-18,True,False,1-10,52
+NP-2037,NovaPay,India,INR,Spring Email Push,Email,6000,NovaPay Basic,Qualified,0.0,2024-02-20,True,False,201-500,48
+NP-2038,NovaPay,UAE,AED,Partner Referral Q2,Referral,12000,NovaPay Basic,Negotiation,0.0,2024-04-10,,,500+,32
+NP-2039,NovaPay,UK,GBP,SEO Content Drive,Organic Search,9000,NovaPay Basic,Lead,0.0,2024-04-29,,,11-50,21
+NP-2040,NovaPay,UAE,AED,SEO Content Drive,Organic Search,9000,NovaPay Basic,Lead,0.0,2024-04-10,,,1-10,26
+NP-2041,NovaPay,Singapore,SGD,Partner Referral Q2,Referral,12000,NovaPay Pro,Demo,0.0,2024-05-30,,,51-200,43
+NP-2042,NovaPay,Singapore,SGD,Fintech Webinar Series,Webinar,7500,NovaPay Enterprise,Qualified,0.0,2024-07-04,,,11-50,50
+NP-2043,NovaPay,USA,USD,Influencer Summer,Influencer,22000,NovaPay Pro,Lead,0.0,2024-07-27,,,1-10,34
+NP-2044,NovaPay,UK,GBP,Spring Email Push,Email,6000,NovaPay Basic,Qualified,0.0,2024-03-06,False,False,201-500,24
+NP-2045,NovaPay,UK,GBP,Partner Referral Q2,Referral,12000,NovaPay Basic,Demo,0.0,2024-06-06,,,201-500,73
+NP-2046,NovaPay,Singapore,SGD,Q1 Launch Blitz,Paid Social,18000,NovaPay Enterprise,Lead,0.0,2024-01-21,,,11-50,46
+NP-2047,NovaPay,Singapore,SGD,Spring Email Push,Email,6000,NovaPay Pro,Proposal,0.0,2024-04-27,False,False,500+,37
+NP-2048,NovaPay,USA,USD,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Demo,0.0,2024-06-02,,,201-500,19
+NP-2049,NovaPay,UAE,AED,Spring Email Push,Email,6000,NovaPay Pro,Negotiation,0.0,2024-02-18,True,False,1-10,60
+NP-2050,NovaPay,India,INR,SEO Content Drive,Organic Search,9000,NovaPay Enterprise,Proposal,0.0,2024-03-20,,,1-10,20
+NP-2051,NovaPay,Singapore,SGD,Partner Referral Q2,Referral,12000,NovaPay Pro,Qualified,0.0,2024-05-09,,,500+,94
+NP-2052,NovaPay,Germany,EUR,Q1 Launch Blitz,Paid Social,18000,NovaPay Basic,Qualified,0.0,2024-03-07,,,51-200,82
+NP-2053,NovaPay,UK,GBP,Spring Email Push,Email,6000,NovaPay Basic,Qualified,0.0,2024-03-27,False,False,1-10,80
+NP-2054,NovaPay,Germany,EUR,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Lead,0.0,2024-06-30,,,1-10,12
+NP-2055,NovaPay,UK,GBP,Spring Email Push,Email,6000,NovaPay Pro,Lead,0.0,2024-03-05,True,False,201-500,49
+NP-2056,NovaPay,India,INR,Influencer Summer,Influencer,22000,NovaPay Basic,Lead,0.0,2024-07-18,,,500+,35
+NP-2057,NovaPay,Germany,EUR,Partner Referral Q2,Referral,12000,NovaPay Basic,Lead,0.0,2024-05-29,,,1-10,64
+NP-2058,NovaPay,India,INR,SEO Content Drive,Organic Search,9000,NovaPay Basic,Qualified,0.0,2024-03-06,,,500+,53
+NP-2059,NovaPay,UAE,AED,Partner Referral Q2,Referral,12000,NovaPay Pro,Demo,0.0,2024-06-07,,,500+,90
+NP-2060,NovaPay,India,INR,Influencer Summer,Influencer,22000,NovaPay Basic,Qualified,0.0,2024-08-01,,,51-200,29
+NP-2061,NovaPay,UAE,AED,Spring Email Push,Email,6000,NovaPay Basic,Lead,0.0,2024-04-09,True,True,1-10,15
+NP-2062,NovaPay,UK,GBP,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Lead,0.0,2024-07-21,,,51-200,55
+NP-2063,NovaPay,India,INR,SEO Content Drive,Organic Search,9000,NovaPay Pro,Lead,0.0,2024-04-29,,,11-50,33
+NP-2064,NovaPay,UK,GBP,Partner Referral Q2,Referral,12000,NovaPay Basic,Demo,0.0,2024-05-15,,,500+,68
+NP-2065,NovaPay,Germany,EUR,Influencer Summer,Influencer,22000,NovaPay Pro,Lead,0.0,2024-06-24,,,11-50,33
+NP-2066,NovaPay,UAE,AED,Q1 Launch Blitz,Paid Social,18000,NovaPay Pro,Proposal,0.0,2024-01-23,,,201-500,78
+NP-2067,NovaPay,UK,GBP,Q1 Launch Blitz,Paid Social,18000,NovaPay Basic,Lead,0.0,2024-03-11,,,201-500,98
+NP-2068,NovaPay,Singapore,SGD,Partner Referral Q2,Referral,12000,NovaPay Enterprise,Qualified,0.0,2024-06-06,,,51-200,89
+NP-2069,NovaPay,Germany,EUR,Fintech Webinar Series,Webinar,7500,NovaPay Pro,Demo,0.0,2024-06-29,,,51-200,21
+NP-2070,NovaPay,UK,GBP,Spring Email Push,Email,6000,NovaPay Basic,Proposal,0.0,2024-03-10,False,False,11-50,71
+NP-2071,NovaPay,UK,GBP,Influencer Summer,Influencer,22000,NovaPay Basic,Proposal,0.0,2024-08-08,,,11-50,21
+NP-2072,NovaPay,UAE,AED,SEO Content Drive,Organic Search,9000,NovaPay Basic,Qualified,0.0,2024-03-15,,,11-50,29
+NP-2073,NovaPay,UAE,AED,Influencer Summer,Influencer,22000,NovaPay Enterprise,Qualified,0.0,2024-07-28,,,500+,41
+NP-2074,NovaPay,Germany,EUR,Spring Email Push,Email,6000,NovaPay Pro,Lead,0.0,2024-03-28,True,False,201-500,63
+NP-2075,NovaPay,UAE,AED,Partner Referral Q2,Referral,12000,NovaPay Pro,Qualified,0.0,2024-05-12,,,1-10,72
+NP-2076,NovaPay,India,INR,Partner Referral Q2,Referral,12000,NovaPay Pro,Qualified,0.0,2024-06-06,,,11-50,17
+NP-2077,NovaPay,UK,GBP,Fintech Webinar Series,Webinar,7500,NovaPay Pro,Qualified,0.0,2024-06-13,,,201-500,70
+NP-2078,NovaPay,India,INR,Q1 Launch Blitz,Paid Social,18000,NovaPay Enterprise,Lead,0.0,2024-03-05,,,1-10,30
+NP-2079,NovaPay,UAE,AED,SEO Content Drive,Organic Search,9000,NovaPay Basic,Qualified,0.0,2024-05-04,,,11-50,85
+NP-2080,NovaPay,Germany,EUR,Influencer Summer,Influencer,22000,NovaPay Pro,Proposal,0.0,2024-07-30,,,11-50,47
+NP-2081,NovaPay,UAE,AED,Influencer Summer,Influencer,22000,NovaPay Enterprise,Proposal,0.0,2024-07-17,,,201-500,30
+NP-2082,NovaPay,UK,GBP,Fintech Webinar Series,Webinar,7500,NovaPay Pro,Lead,0.0,2024-07-10,,,11-50,32
+NP-2083,NovaPay,UK,GBP,Spring Email Push,Email,6000,NovaPay Basic,Proposal,0.0,2024-04-18,True,True,1-10,12
+NP-2084,NovaPay,Singapore,SGD,SEO Content Drive,Organic Search,9000,NovaPay Basic,Lead,0.0,2024-05-04,,,1-10,18
+NP-2085,NovaPay,Germany,EUR,SEO Content Drive,Organic Search,9000,NovaPay Pro,Lead,0.0,2024-03-29,,,201-500,43
+NP-2086,NovaPay,UAE,AED,SEO Content Drive,Organic Search,9000,NovaPay Pro,Demo,0.0,2024-05-11,,,51-200,29
+NP-2087,NovaPay,Singapore,SGD,Influencer Summer,Influencer,22000,NovaPay Pro,Lead,0.0,2024-06-07,,,201-500,68
+NP-2088,NovaPay,USA,USD,Q1 Launch Blitz,Paid Social,18000,NovaPay Pro,Qualified,0.0,2024-01-23,,,500+,15
+NP-2089,NovaPay,UK,GBP,Fintech Webinar Series,Webinar,7500,NovaPay Pro,Proposal,0.0,2024-06-25,,,11-50,47
+NP-2090,NovaPay,Germany,EUR,Influencer Summer,Influencer,22000,NovaPay Pro,Demo,0.0,2024-06-13,,,11-50,92
+NP-2091,NovaPay,Germany,EUR,SEO Content Drive,Organic Search,9000,NovaPay Basic,Proposal,0.0,2024-04-26,,,201-500,10
+NP-2092,NovaPay,Singapore,SGD,Spring Email Push,Email,6000,NovaPay Basic,Lead,0.0,2024-03-07,True,False,201-500,56
+NP-2093,NovaPay,UAE,AED,Influencer Summer,Influencer,22000,NovaPay Basic,Demo,0.0,2024-07-24,,,11-50,27
+NP-2094,NovaPay,Germany,EUR,Partner Referral Q2,Referral,12000,NovaPay Basic,Qualified,0.0,2024-06-10,,,51-200,13
+NP-2095,NovaPay,UK,GBP,Partner Referral Q2,Referral,12000,NovaPay Basic,Proposal,0.0,2024-04-13,,,1-10,53
+NP-2096,NovaPay,Germany,EUR,SEO Content Drive,Organic Search,9000,NovaPay Pro,Qualified,0.0,2024-04-20,,,1-10,94
+NP-2097,NovaPay,UK,GBP,Influencer Summer,Influencer,22000,NovaPay Pro,Closed Lost,0.0,2024-08-06,,,51-200,63
+NP-2098,NovaPay,Singapore,SGD,Partner Referral Q2,Referral,12000,NovaPay Pro,Proposal,0.0,2024-05-15,,,51-200,11
+NP-2099,NovaPay,USA,USD,SEO Content Drive,Organic Search,9000,NovaPay Pro,Lead,0.0,2024-04-21,,,201-500,92
+NP-2100,NovaPay,Singapore,SGD,Spring Email Push,Email,6000,NovaPay Pro,Qualified,0.0,2024-04-11,False,False,201-500,35
+NP-2101,NovaPay,UK,GBP,SEO Content Drive,Organic Search,9000,NovaPay Pro,Lead,0.0,2024-03-17,,,500+,79
+NP-2102,NovaPay,UK,GBP,SEO Content Drive,Organic Search,9000,NovaPay Pro,Lead,0.0,2024-04-13,,,11-50,12
+NP-2103,NovaPay,Singapore,SGD,Q1 Launch Blitz,Paid Social,18000,NovaPay Pro,Lead,0.0,2024-02-17,,,201-500,74
+NP-2104,NovaPay,UAE,AED,Q1 Launch Blitz,Paid Social,18000,NovaPay Pro,Lead,0.0,2024-03-14,,,51-200,25
+NP-2105,NovaPay,UAE,AED,Q1 Launch Blitz,Paid Social,18000,NovaPay Enterprise,Qualified,0.0,2024-03-23,,,1-10,68
+NP-2106,NovaPay,USA,USD,SEO Content Drive,Organic Search,9000,NovaPay Pro,Closed Lost,0.0,2024-05-12,,,500+,86
+NP-2107,NovaPay,Germany,EUR,Spring Email Push,Email,6000,NovaPay Basic,Demo,0.0,2024-04-28,False,False,201-500,76
+NP-2108,NovaPay,UK,GBP,Influencer Summer,Influencer,22000,NovaPay Basic,Qualified,0.0,2024-07-17,,,201-500,22
+NP-2109,NovaPay,UAE,AED,Spring Email Push,Email,6000,NovaPay Pro,Lead,0.0,2024-02-22,False,False,11-50,70
+NP-2110,NovaPay,Germany,EUR,Spring Email Push,Email,6000,NovaPay Basic,Qualified,0.0,2024-04-30,False,False,201-500,43
+NP-2111,NovaPay,India,INR,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Qualified,0.0,2024-07-11,,,201-500,30
+NP-2112,NovaPay,India,INR,Spring Email Push,Email,6000,NovaPay Basic,Qualified,0.0,2024-04-20,False,False,1-10,98
+NP-2113,NovaPay,India,INR,Spring Email Push,Email,6000,NovaPay Basic,Lead,0.0,2024-04-26,True,False,500+,62
+NP-2114,NovaPay,UK,GBP,Q1 Launch Blitz,Paid Social,18000,NovaPay Pro,Lead,0.0,2024-01-29,,,1-10,57
+NP-2115,NovaPay,USA,USD,SEO Content Drive,Organic Search,9000,NovaPay Basic,Qualified,0.0,2024-03-19,,,11-50,85
+NP-2116,NovaPay,UK,GBP,Partner Referral Q2,Referral,12000,NovaPay Enterprise,Negotiation,0.0,2024-05-02,,,11-50,72
+NP-2117,NovaPay,UK,GBP,Q1 Launch Blitz,Paid Social,18000,NovaPay Basic,Proposal,0.0,2024-03-03,,,201-500,83
+NP-2118,NovaPay,India,INR,SEO Content Drive,Organic Search,9000,NovaPay Enterprise,Demo,0.0,2024-04-30,,,500+,26
+NP-2119,NovaPay,India,INR,Spring Email Push,Email,6000,NovaPay Basic,Qualified,0.0,2024-04-12,True,False,1-10,89
+NP-2120,NovaPay,India,INR,Influencer Summer,Influencer,22000,NovaPay Basic,Negotiation,0.0,2024-07-14,,,500+,15
+NP-2121,NovaPay,Singapore,SGD,Influencer Summer,Influencer,22000,NovaPay Pro,Demo,0.0,2024-06-22,,,1-10,83
+NP-2122,NovaPay,UAE,AED,Influencer Summer,Influencer,22000,NovaPay Pro,Qualified,0.0,2024-06-16,,,500+,20
+NP-2123,NovaPay,USA,USD,Spring Email Push,Email,6000,NovaPay Pro,Demo,0.0,2024-04-27,False,False,201-500,74
+NP-2124,NovaPay,UK,GBP,Q1 Launch Blitz,Paid Social,18000,NovaPay Enterprise,Lead,0.0,2024-01-12,,,51-200,36
+NP-2125,NovaPay,Singapore,SGD,Spring Email Push,Email,6000,NovaPay Pro,Qualified,0.0,2024-02-25,False,False,500+,51
+NP-2126,NovaPay,India,INR,Partner Referral Q2,Referral,12000,NovaPay Basic,Negotiation,0.0,2024-05-18,,,201-500,33
+NP-2127,NovaPay,UK,GBP,Partner Referral Q2,Referral,12000,NovaPay Pro,Lead,0.0,2024-04-16,,,1-10,22
+NP-2128,NovaPay,UK,GBP,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Lead,0.0,2024-05-21,,,11-50,49
+NP-2129,NovaPay,UAE,AED,Partner Referral Q2,Referral,12000,NovaPay Basic,Closed Won,257.81,2024-04-28,,,1-10,48
+NP-2130,NovaPay,UK,GBP,Partner Referral Q2,Referral,12000,NovaPay Basic,Negotiation,0.0,2024-05-08,,,201-500,25
+NP-2131,NovaPay,UK,GBP,Q1 Launch Blitz,Paid Social,18000,NovaPay Pro,Qualified,0.0,2024-03-13,,,500+,74
+NP-2132,NovaPay,USA,USD,Partner Referral Q2,Referral,12000,NovaPay Basic,Lead,0.0,2024-06-14,,,201-500,18
+NP-2133,NovaPay,UK,GBP,Partner Referral Q2,Referral,12000,NovaPay Pro,Negotiation,0.0,2024-04-07,,,51-200,80
+NP-2134,NovaPay,UAE,AED,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Qualified,0.0,2024-05-26,,,51-200,82
+NP-2135,NovaPay,Germany,EUR,Partner Referral Q2,Referral,12000,NovaPay Pro,Qualified,0.0,2024-04-23,,,51-200,79
+NP-2136,NovaPay,UAE,AED,Spring Email Push,Email,6000,NovaPay Pro,Qualified,0.0,2024-04-26,False,False,1-10,69
+NP-2137,NovaPay,Germany,EUR,Fintech Webinar Series,Webinar,7500,NovaPay Enterprise,Lead,0.0,2024-07-10,,,51-200,86
+NP-2138,NovaPay,Singapore,SGD,SEO Content Drive,Organic Search,9000,NovaPay Basic,Lead,0.0,2024-03-28,,,500+,75
+NP-2139,NovaPay,UK,GBP,SEO Content Drive,Organic Search,9000,NovaPay Pro,Qualified,0.0,2024-04-08,,,1-10,60
+NP-2140,NovaPay,UK,GBP,Influencer Summer,Influencer,22000,NovaPay Basic,Qualified,0.0,2024-07-06,,,201-500,36
+NP-2141,NovaPay,India,INR,Fintech Webinar Series,Webinar,7500,NovaPay Pro,Negotiation,0.0,2024-06-22,,,51-200,67
+NP-2142,NovaPay,UK,GBP,SEO Content Drive,Organic Search,9000,NovaPay Enterprise,Lead,0.0,2024-04-28,,,500+,52
+NP-2143,NovaPay,USA,USD,Q1 Launch Blitz,Paid Social,18000,NovaPay Basic,Negotiation,0.0,2024-03-10,,,1-10,11
+NP-2144,NovaPay,UK,GBP,Influencer Summer,Influencer,22000,NovaPay Pro,Demo,0.0,2024-08-02,,,201-500,78
+NP-2145,NovaPay,UAE,AED,Q1 Launch Blitz,Paid Social,18000,NovaPay Pro,Lead,0.0,2024-01-13,,,201-500,96
+NP-2146,NovaPay,Germany,EUR,Q1 Launch Blitz,Paid Social,18000,NovaPay Pro,Proposal,0.0,2024-02-24,,,201-500,32
+NP-2147,NovaPay,USA,USD,Influencer Summer,Influencer,22000,NovaPay Basic,Lead,0.0,2024-06-25,,,201-500,11
+NP-2148,NovaPay,UAE,AED,Spring Email Push,Email,6000,NovaPay Pro,Demo,0.0,2024-03-31,True,False,51-200,38
+NP-2149,NovaPay,USA,USD,Spring Email Push,Email,6000,NovaPay Enterprise,Lead,0.0,2024-04-18,False,False,500+,36
+NP-2150,NovaPay,UK,GBP,Q1 Launch Blitz,Paid Social,18000,NovaPay Pro,Lead,0.0,2024-02-14,,,500+,74
+NP-2151,NovaPay,UK,GBP,Partner Referral Q2,Referral,12000,NovaPay Basic,Demo,0.0,2024-06-16,,,11-50,18
+NP-2152,NovaPay,UK,GBP,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Lead,0.0,2024-07-21,,,11-50,76
+NP-2153,NovaPay,UAE,AED,Influencer Summer,Influencer,22000,NovaPay Basic,Demo,0.0,2024-08-08,,,500+,42
+NP-2154,NovaPay,India,INR,Influencer Summer,Influencer,22000,NovaPay Basic,Negotiation,0.0,2024-06-07,,,51-200,65
+NP-2155,NovaPay,Germany,EUR,Partner Referral Q2,Referral,12000,NovaPay Pro,Qualified,0.0,2024-05-21,,,500+,15
+NP-2156,NovaPay,UK,GBP,Influencer Summer,Influencer,22000,NovaPay Basic,Qualified,0.0,2024-07-28,,,51-200,10
+NP-2157,NovaPay,UK,GBP,Partner Referral Q2,Referral,12000,NovaPay Basic,Qualified,0.0,2024-04-08,,,11-50,98
+NP-2158,NovaPay,USA,USD,Partner Referral Q2,Referral,12000,NovaPay Enterprise,Lead,0.0,2024-05-17,,,51-200,18
+NP-2159,NovaPay,India,INR,Influencer Summer,Influencer,22000,NovaPay Basic,Qualified,0.0,2024-06-04,,,500+,90
+NP-2160,NovaPay,Singapore,SGD,SEO Content Drive,Organic Search,9000,NovaPay Basic,Qualified,0.0,2024-04-13,,,1-10,52
+NP-2161,NovaPay,UAE,AED,Fintech Webinar Series,Webinar,7500,NovaPay Enterprise,Demo,0.0,2024-07-05,,,1-10,90
+NP-2162,NovaPay,India,INR,Partner Referral Q2,Referral,12000,NovaPay Basic,Lead,0.0,2024-04-09,,,201-500,50
+NP-2163,NovaPay,UK,GBP,Influencer Summer,Influencer,22000,NovaPay Basic,Negotiation,0.0,2024-07-27,,,1-10,48
+NP-2164,NovaPay,India,INR,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Demo,0.0,2024-07-20,,,1-10,47
+NP-2165,NovaPay,Germany,EUR,Partner Referral Q2,Referral,12000,NovaPay Pro,Qualified,0.0,2024-04-06,,,201-500,59
+NP-2166,NovaPay,UAE,AED,Partner Referral Q2,Referral,12000,NovaPay Enterprise,Qualified,0.0,2024-05-18,,,1-10,68
+NP-2167,NovaPay,Germany,EUR,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Lead,0.0,2024-05-18,,,500+,34
+NP-2168,NovaPay,UK,GBP,Fintech Webinar Series,Webinar,7500,NovaPay Pro,Lead,0.0,2024-07-10,,,500+,66
+NP-2169,NovaPay,UK,GBP,Spring Email Push,Email,6000,NovaPay Pro,Lead,0.0,2024-03-25,False,False,500+,93
+NP-2170,NovaPay,Germany,EUR,SEO Content Drive,Organic Search,9000,NovaPay Enterprise,Demo,0.0,2024-03-19,,,201-500,49
+NP-2171,NovaPay,Germany,EUR,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Lead,0.0,2024-07-24,,,11-50,17
+NP-2172,NovaPay,India,INR,Spring Email Push,Email,6000,NovaPay Pro,Proposal,0.0,2024-04-09,True,False,11-50,18
+NP-2173,NovaPay,UK,GBP,SEO Content Drive,Organic Search,9000,NovaPay Basic,Demo,0.0,2024-04-29,,,500+,98
+NP-2174,NovaPay,Singapore,SGD,SEO Content Drive,Organic Search,9000,NovaPay Pro,Lead,0.0,2024-04-08,,,201-500,52
+NP-2175,NovaPay,UK,GBP,Spring Email Push,Email,6000,NovaPay Enterprise,Negotiation,0.0,2024-04-18,True,True,11-50,98
+NP-2176,NovaPay,India,INR,Spring Email Push,Email,6000,NovaPay Basic,Qualified,0.0,2024-03-28,False,False,201-500,36
+NP-2177,NovaPay,UK,GBP,Partner Referral Q2,Referral,12000,NovaPay Enterprise,Lead,0.0,2024-04-14,,,51-200,13
+NP-2178,NovaPay,UK,GBP,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Lead,0.0,2024-07-23,,,51-200,15
+NP-2179,NovaPay,UK,GBP,Q1 Launch Blitz,Paid Social,18000,NovaPay Basic,Lead,0.0,2024-02-12,,,11-50,53
+NP-2180,NovaPay,UK,GBP,Fintech Webinar Series,Webinar,7500,NovaPay Basic,Lead,0.0,2024-06-12,,,1-10,12
+NP-2181,NovaPay,UK,GBP,Influencer Summer,Influencer,22000,NovaPay Pro,Negotiation,0.0,2024-07-14,,,11-50,49
+NP-2182,NovaPay,UK,GBP,Partner Referral Q2,Referral,12000,NovaPay Pro,Demo,0.0,2024-06-11,,,500+,65
+NP-2183,NovaPay,UK,GBP,Influencer Summer,Influencer,22000,NovaPay Basic,Negotiation,0.0,2024-06-25,,,11-50,78
+NP-2184,NovaPay,UAE,AED,Partner Referral Q2,Referral,12000,NovaPay Basic,Qualified,0.0,2024-05-06,,,1-10,88
+NP-2185,NovaPay,UK,GBP,Fintech Webinar Series,Webinar,7500,NovaPay Pro,Proposal,0.0,2024-06-20,,,11-50,16
+NP-2186,NovaPay,UAE,AED,Influencer Summer,Influencer,22000,NovaPay Enterprise,Proposal,0.0,2024-08-14,,,201-500,36
+NP-2187,NovaPay,UK,GBP,Influencer Summer,Influencer,22000,NovaPay Basic,Demo,0.0,2024-06-09,,,11-50,75
+NP-2188,NovaPay,UAE,AED,Partner Referral Q2,Referral,12000,NovaPay Pro,Qualified,0.0,2024-06-07,,,500+,69
+NP-2189,NovaPay,Germany,EUR,Spring Email Push,Email,6000,NovaPay Basic,Demo,0.0,2024-04-18,False,False,500+,61
+NP-2190,NovaPay,USA,USD,Influencer Summer,Influencer,22000,NovaPay Pro,Lead,0.0,2024-06-29,,,11-50,67
+NP-2191,NovaPay,Germany,EUR,Spring Email Push,Email,6000,NovaPay Basic,Negotiation,0.0,2024-04-28,True,False,51-200,80
+NP-2192,NovaPay,UK,GBP,Q1 Launch Blitz,Paid Social,18000,NovaPay Basic,Qualified,0.0,2024-02-24,,,11-50,84
+NP-2193,NovaPay,India,INR,Q1 Launch Blitz,Paid Social,18000,NovaPay Pro,Qualified,0.0,2024-03-09,,,201-500,62
+NP-2194,NovaPay,Singapore,SGD,SEO Content Drive,Organic Search,9000,NovaPay Basic,Lead,0.0,2024-03-23,,,201-500,39
+NP-2195,NovaPay,India,INR,SEO Content Drive,Organic Search,9000,NovaPay Basic,Lead,0.0,2024-05-04,,,500+,79
+NP-2196,NovaPay,UK,GBP,Influencer Summer,Influencer,22000,NovaPay Basic,Lead,0.0,2024-06-16,,,1-10,56
+NP-2197,NovaPay,India,INR,Q1 Launch Blitz,Paid Social,18000,NovaPay Basic,Demo,0.0,2024-02-11,,,51-200,97
+NP-2198,NovaPay,UK,GBP,SEO Content Drive,Organic Search,9000,NovaPay Pro,Lead,0.0,2024-05-09,,,51-200,11
+NP-2199,NovaPay,Germany,EUR,SEO Content Drive,Organic Search,9000,NovaPay Basic,Closed Lost,0.0,2024-04-21,,,500+,93
